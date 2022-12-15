@@ -14,6 +14,7 @@ library(ComplexHeatmap)
 library(cowplot)
 library(ggthemes)
 library(circlize)
+library(gh)
 
 #### Similarity Calculations ####
 
@@ -160,6 +161,7 @@ gene_set_heatmap <- function(x){
           ),
           heatmap_legend_param = list(
             title = 'Dissimilarity'))
+}
 
 #### Enrichment Visualization Function #####
 enrich_viz <- function(df_d=df_d,
@@ -317,10 +319,10 @@ server <- function(input, output) {
   main_dir <- getwd()
   # Reference File to read in
   ### All genes present in annotation on DAVID knowledgebase ###
-  bp <- readRDS('~/Desktop/WaxmanLab/Lab_References/DAVID_Term_Lists/DAVID_BP_FAT_GOTERMS.RData')
-  mf <- readRDS('~/Desktop/WaxmanLab/Lab_References/DAVID_Term_Lists/DAVID_MF_FAT_GOTERMS.RData')
-  cc <- readRDS('~/Desktop/WaxmanLab/Lab_References/DAVID_Term_Lists/DAVID_CC_FAT_GOTERMS.RData')
-  up <- readRDS('~/Desktop/WaxmanLab/Lab_References/DAVID_Term_Lists/DAVID_UP_SEQ_GOTERMS.RData')
+  bp <- read_tsv('./ref/DAVID_BP_FAT_GOTERMS.tsv')
+  mf <- read_tsv('./ref/DAVID_MF_FAT_GOTERMS.tsv')
+  cc <- read_tsv('./ref/DAVID_CC_FAT_GOTERMS.tsv')
+  up <- read_tsv('./ref/DAVID_UP_SEQ_GOTERMS.tsv')
   group <- rbind(bp,mf,cc,up)
   
   observeEvent(input$plot, {
