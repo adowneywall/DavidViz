@@ -1,0 +1,1992 @@
+Term	Term_Type	Gene_count	Gene_list
+GO:0000015~phosphopyruvate hydratase complex	GOTERM_FAT_CC	5	
+GO:0000109~nucleotide-excision repair complex	GOTERM_FAT_CC	18	
+GO:0000110~nucleotide-excision repair factor 1 complex	GOTERM_FAT_CC	3	
+GO:0000111~nucleotide-excision repair factor 2 complex	GOTERM_FAT_CC	1	
+GO:0000112~nucleotide-excision repair factor 3 complex	GOTERM_FAT_CC	1	
+GO:0000118~histone deacetylase complex	GOTERM_FAT_CC	70	
+GO:0000120~RNA polymerase I transcription factor complex	GOTERM_FAT_CC	5	
+GO:0000123~histone acetyltransferase complex	GOTERM_FAT_CC	89	
+GO:0000124~SAGA complex	GOTERM_FAT_CC	23	
+GO:0000125~PCAF complex	GOTERM_FAT_CC	4	
+GO:0000126~transcription factor TFIIIB complex	GOTERM_FAT_CC	3	
+GO:0000127~transcription factor TFIIIC complex	GOTERM_FAT_CC	7	
+GO:0000137~Golgi cis cisterna	GOTERM_FAT_CC	13	
+GO:0000138~Golgi trans cisterna	GOTERM_FAT_CC	13	
+GO:0000139~Golgi membrane	GOTERM_FAT_CC	642	
+GO:0000145~exocyst	GOTERM_FAT_CC	19	
+GO:0000151~ubiquitin ligase complex	GOTERM_FAT_CC	354	
+GO:0000152~nuclear ubiquitin ligase complex	GOTERM_FAT_CC	48	
+GO:0000153~cytoplasmic ubiquitin ligase complex	GOTERM_FAT_CC	17	
+GO:0000159~protein phosphatase type 2A complex	GOTERM_FAT_CC	18	
+GO:0000164~protein phosphatase type 1 complex	GOTERM_FAT_CC	17	
+GO:0000172~ribonuclease MRP complex	GOTERM_FAT_CC	9	
+GO:0000176~nuclear exosome (RNase complex)	GOTERM_FAT_CC	15	
+GO:0000177~cytoplasmic exosome (RNase complex)	GOTERM_FAT_CC	16	
+GO:0000178~exosome (RNase complex)	GOTERM_FAT_CC	24	
+GO:0000214~tRNA-intron endonuclease complex	GOTERM_FAT_CC	4	
+GO:0000220~vacuolar proton-transporting V-type ATPase, V0 domain	GOTERM_FAT_CC	4	
+GO:0000221~vacuolar proton-transporting V-type ATPase, V1 domain	GOTERM_FAT_CC	8	
+GO:0000228~nuclear chromosome	GOTERM_FAT_CC	366	
+GO:0000235~astral microtubule	GOTERM_FAT_CC	11	
+GO:0000242~pericentriolar material	GOTERM_FAT_CC	24	
+GO:0000243~commitment complex	GOTERM_FAT_CC	5	
+GO:0000274~mitochondrial proton-transporting ATP synthase, stator stalk	GOTERM_FAT_CC	2	
+GO:0000275~mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	GOTERM_FAT_CC	5	
+GO:0000276~mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	GOTERM_FAT_CC	12	
+GO:0000306~extrinsic component of vacuolar membrane	GOTERM_FAT_CC	4	
+GO:0000307~cyclin-dependent protein kinase holoenzyme complex	GOTERM_FAT_CC	51	
+GO:0000308~cytoplasmic cyclin-dependent protein kinase holoenzyme complex	GOTERM_FAT_CC	2	
+GO:0000313~organellar ribosome	GOTERM_FAT_CC	98	
+GO:0000314~organellar small ribosomal subunit	GOTERM_FAT_CC	35	
+GO:0000315~organellar large ribosomal subunit	GOTERM_FAT_CC	62	
+GO:0000322~storage vacuole	GOTERM_FAT_CC	4	
+GO:0000323~lytic vacuole	GOTERM_FAT_CC	566	
+GO:0000333~telomerase catalytic core complex	GOTERM_FAT_CC	1	
+GO:0000346~transcription export complex	GOTERM_FAT_CC	14	
+GO:0000347~THO complex	GOTERM_FAT_CC	7	
+GO:0000407~pre-autophagosomal structure	GOTERM_FAT_CC	37	
+GO:0000408~EKC/KEOPS complex	GOTERM_FAT_CC	11	
+GO:0000417~HIR complex	GOTERM_FAT_CC	1	
+GO:0000421~autophagosome membrane	GOTERM_FAT_CC	51	
+GO:0000428~DNA-directed RNA polymerase complex	GOTERM_FAT_CC	146	
+GO:0000438~core TFIIH complex portion of holo TFIIH complex	GOTERM_FAT_CC	3	
+GO:0000439~core TFIIH complex	GOTERM_FAT_CC	10	
+GO:0000444~MIS12/MIND type complex	GOTERM_FAT_CC	4	
+GO:0000445~THO complex part of transcription export complex	GOTERM_FAT_CC	7	
+GO:0000502~proteasome complex	GOTERM_FAT_CC	68	
+GO:0000506~glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	GOTERM_FAT_CC	8	
+GO:0000775~chromosome, centromeric region	GOTERM_FAT_CC	242	
+GO:0000776~kinetochore	GOTERM_FAT_CC	162	
+GO:0000777~condensed chromosome kinetochore	GOTERM_FAT_CC	24	
+GO:0000778~condensed nuclear chromosome kinetochore	GOTERM_FAT_CC	3	
+GO:0000779~condensed chromosome, centromeric region	GOTERM_FAT_CC	43	
+GO:0000780~condensed nuclear chromosome, centromeric region	GOTERM_FAT_CC	3	
+GO:0000781~chromosome, telomeric region	GOTERM_FAT_CC	127	
+GO:0000782~telomere cap complex	GOTERM_FAT_CC	11	
+GO:0000783~nuclear telomere cap complex	GOTERM_FAT_CC	11	
+GO:0000784~nuclear chromosome, telomeric region	GOTERM_FAT_CC	11	
+GO:0000785~chromatin	GOTERM_FAT_CC	697	
+GO:0000786~nucleosome	GOTERM_FAT_CC	145	
+GO:0000790~nuclear chromatin	GOTERM_FAT_CC	72	
+GO:0000791~euchromatin	GOTERM_FAT_CC	72	
+GO:0000792~heterochromatin	GOTERM_FAT_CC	105	
+GO:0000793~condensed chromosome	GOTERM_FAT_CC	234	
+GO:0000794~condensed nuclear chromosome	GOTERM_FAT_CC	171	
+GO:0000795~synaptonemal complex	GOTERM_FAT_CC	124	
+GO:0000796~condensin complex	GOTERM_FAT_CC	8	
+GO:0000798~nuclear cohesin complex	GOTERM_FAT_CC	8	
+GO:0000800~lateral element	GOTERM_FAT_CC	20	
+GO:0000801~central element	GOTERM_FAT_CC	8	
+GO:0000802~transverse filament	GOTERM_FAT_CC	3	
+GO:0000803~sex chromosome	GOTERM_FAT_CC	42	
+GO:0000805~X chromosome	GOTERM_FAT_CC	11	
+GO:0000806~Y chromosome	GOTERM_FAT_CC	2	
+GO:0000808~origin recognition complex	GOTERM_FAT_CC	8	
+GO:0000811~GINS complex	GOTERM_FAT_CC	4	
+GO:0000812~Swr1 complex	GOTERM_FAT_CC	14	
+GO:0000813~ESCRT I complex	GOTERM_FAT_CC	11	
+GO:0000814~ESCRT II complex	GOTERM_FAT_CC	3	
+GO:0000815~ESCRT III complex	GOTERM_FAT_CC	10	
+GO:0000818~nuclear MIS12/MIND complex	GOTERM_FAT_CC	3	
+GO:0000835~ER ubiquitin ligase complex	GOTERM_FAT_CC	8	
+GO:0000836~Hrd1p ubiquitin ligase complex	GOTERM_FAT_CC	8	
+GO:0000839~Hrd1p ubiquitin ligase ERAD-L complex	GOTERM_FAT_CC	8	
+GO:0000922~spindle pole	GOTERM_FAT_CC	175	
+GO:0000923~equatorial microtubule organizing center	GOTERM_FAT_CC	5	
+GO:0000930~gamma-tubulin complex	GOTERM_FAT_CC	16	
+GO:0000931~gamma-tubulin large complex	GOTERM_FAT_CC	6	
+GO:0000932~P-body	GOTERM_FAT_CC	96	
+GO:0000938~GARP complex	GOTERM_FAT_CC	5	
+GO:0000939~condensed chromosome inner kinetochore	GOTERM_FAT_CC	7	
+GO:0000940~condensed chromosome outer kinetochore	GOTERM_FAT_CC	14	
+GO:0000974~Prp19 complex	GOTERM_FAT_CC	23	
+GO:0001401~mitochondrial sorting and assembly machinery complex	GOTERM_FAT_CC	5	
+GO:0001405~presequence translocase-associated import motor	GOTERM_FAT_CC	6	
+GO:0001518~voltage-gated sodium channel complex	GOTERM_FAT_CC	17	
+GO:0001520~outer dense fiber	GOTERM_FAT_CC	11	
+GO:0001527~microfibril	GOTERM_FAT_CC	13	
+GO:0001533~cornified envelope	GOTERM_FAT_CC	65	
+GO:0001534~radial spoke	GOTERM_FAT_CC	4	
+GO:0001535~radial spoke head	GOTERM_FAT_CC	1	
+GO:0001650~fibrillar center	GOTERM_FAT_CC	150	
+GO:0001651~dense fibrillar component	GOTERM_FAT_CC	7	
+GO:0001652~granular component	GOTERM_FAT_CC	9	
+GO:0001669~acrosomal vesicle	GOTERM_FAT_CC	177	
+GO:0001673~male germ cell nucleus	GOTERM_FAT_CC	86	
+GO:0001674~female germ cell nucleus	GOTERM_FAT_CC	26	
+GO:0001725~stress fiber	GOTERM_FAT_CC	90	
+GO:0001726~ruffle	GOTERM_FAT_CC	194	
+GO:0001739~sex chromatin	GOTERM_FAT_CC	6	
+GO:0001740~Barr body	GOTERM_FAT_CC	6	
+GO:0001741~XY body	GOTERM_FAT_CC	23	
+GO:0001750~photoreceptor outer segment	GOTERM_FAT_CC	92	
+GO:0001772~immunological synapse	GOTERM_FAT_CC	48	
+GO:0001891~phagocytic cup	GOTERM_FAT_CC	30	
+GO:0001917~photoreceptor inner segment	GOTERM_FAT_CC	72	
+GO:0001931~uropod	GOTERM_FAT_CC	13	
+GO:0001939~female pronucleus	GOTERM_FAT_CC	10	
+GO:0001940~male pronucleus	GOTERM_FAT_CC	8	
+GO:0002079~inner acrosomal membrane	GOTERM_FAT_CC	6	
+GO:0002080~acrosomal membrane	GOTERM_FAT_CC	39	
+GO:0002081~outer acrosomal membrane	GOTERM_FAT_CC	7	
+GO:0002095~caveolar macromolecular signaling complex	GOTERM_FAT_CC	3	
+GO:0002096~polkadots	GOTERM_FAT_CC	2	
+GO:0002102~podosome	GOTERM_FAT_CC	35	
+GO:0002111~BRCA2-BRAF35 complex	GOTERM_FAT_CC	1	
+GO:0002116~semaphorin receptor complex	GOTERM_FAT_CC	9	
+GO:0002133~polycystin complex	GOTERM_FAT_CC	2	
+GO:0002139~stereocilia coupling link	GOTERM_FAT_CC	7	
+GO:0002140~stereocilia tip link	GOTERM_FAT_CC	2	
+GO:0002141~stereocilia ankle link	GOTERM_FAT_CC	6	
+GO:0002142~stereocilia ankle link complex	GOTERM_FAT_CC	6	
+GO:0002144~cytosolic tRNA wobble base thiouridylase complex	GOTERM_FAT_CC	1	
+GO:0002169~3-methylcrotonyl-CoA carboxylase complex, mitochondrial	GOTERM_FAT_CC	2	
+GO:0002177~manchette	GOTERM_FAT_CC	20	
+GO:0002178~palmitoyltransferase complex	GOTERM_FAT_CC	13	
+GO:0002189~ribose phosphate diphosphokinase complex	GOTERM_FAT_CC	6	
+GO:0002193~MAML1-RBP-Jkappa- ICN1 complex	GOTERM_FAT_CC	3	
+GO:0002199~zona pellucida receptor complex	GOTERM_FAT_CC	11	
+GO:0002944~cyclin K-CDK12 complex	GOTERM_FAT_CC	2	
+GO:0002945~cyclin K-CDK13 complex	GOTERM_FAT_CC	2	
+GO:0002947~tumor necrosis factor receptor superfamily complex	GOTERM_FAT_CC	2	
+GO:0005576~extracellular region	GOTERM_FAT_CC	2972	
+GO:0005577~fibrinogen complex	GOTERM_FAT_CC	6	
+GO:0005578~proteinaceous extracellular matrix	GOTERM_FAT_CC	152	
+GO:0005579~membrane attack complex	GOTERM_FAT_CC	8	
+GO:0005581~collagen trimer	GOTERM_FAT_CC	86	
+GO:0005583~fibrillar collagen trimer	GOTERM_FAT_CC	12	
+GO:0005584~collagen type I trimer	GOTERM_FAT_CC	2	
+GO:0005585~collagen type II trimer	GOTERM_FAT_CC	1	
+GO:0005586~collagen type III trimer	GOTERM_FAT_CC	1	
+GO:0005587~collagen type IV trimer	GOTERM_FAT_CC	7	
+GO:0005588~collagen type V trimer	GOTERM_FAT_CC	4	
+GO:0005589~collagen type VI trimer	GOTERM_FAT_CC	1	
+GO:0005592~collagen type XI trimer	GOTERM_FAT_CC	5	
+GO:0005593~FACIT collagen trimer	GOTERM_FAT_CC	4	
+GO:0005594~collagen type IX trimer	GOTERM_FAT_CC	3	
+GO:0005595~collagen type XII trimer	GOTERM_FAT_CC	1	
+GO:0005598~short-chain collagen trimer	GOTERM_FAT_CC	1	
+GO:0005599~collagen type X trimer	GOTERM_FAT_CC	1	
+GO:0005601~classical-complement-pathway C3/C5 convertase complex	GOTERM_FAT_CC	3	
+GO:0005602~complement component C1 complex	GOTERM_FAT_CC	7	
+GO:0005604~basement membrane	GOTERM_FAT_CC	121	
+GO:0005605~basal lamina	GOTERM_FAT_CC	12	
+GO:0005606~laminin-1 complex	GOTERM_FAT_CC	3	
+GO:0005607~laminin-2 complex	GOTERM_FAT_CC	2	
+GO:0005608~laminin-3 complex	GOTERM_FAT_CC	3	
+GO:0005610~laminin-5 complex	GOTERM_FAT_CC	4	
+GO:0005614~interstitial matrix	GOTERM_FAT_CC	17	
+GO:0005615~extracellular space	GOTERM_FAT_CC	2054	
+GO:0005635~nuclear envelope	GOTERM_FAT_CC	501	
+GO:0005637~nuclear inner membrane	GOTERM_FAT_CC	61	
+GO:0005638~lamin filament	GOTERM_FAT_CC	6	
+GO:0005639~integral component of nuclear inner membrane	GOTERM_FAT_CC	14	
+GO:0005640~nuclear outer membrane	GOTERM_FAT_CC	33	
+GO:0005641~nuclear envelope lumen	GOTERM_FAT_CC	13	
+GO:0005642~annulate lamellae	GOTERM_FAT_CC	7	
+GO:0005643~nuclear pore	GOTERM_FAT_CC	84	
+GO:0005652~nuclear lamina	GOTERM_FAT_CC	16	
+GO:0005654~nucleoplasm	GOTERM_FAT_CC	3910	
+GO:0005655~nucleolar ribonuclease P complex	GOTERM_FAT_CC	7	
+GO:0005656~nuclear pre-replicative complex	GOTERM_FAT_CC	2	
+GO:0005657~replication fork	GOTERM_FAT_CC	75	
+GO:0005658~alpha DNA polymerase:primase complex	GOTERM_FAT_CC	4	
+GO:0005662~DNA replication factor A complex	GOTERM_FAT_CC	13	
+GO:0005663~DNA replication factor C complex	GOTERM_FAT_CC	5	
+GO:0005664~nuclear origin of replication recognition complex	GOTERM_FAT_CC	8	
+GO:0005665~DNA-directed RNA polymerase II, core complex	GOTERM_FAT_CC	14	
+GO:0005666~DNA-directed RNA polymerase III complex	GOTERM_FAT_CC	18	
+GO:0005667~transcription factor complex	GOTERM_FAT_CC	482	
+GO:0005668~RNA polymerase transcription factor SL1 complex	GOTERM_FAT_CC	5	
+GO:0005669~transcription factor TFIID complex	GOTERM_FAT_CC	32	
+GO:0005671~Ada2/Gcn5/Ada3 transcription activator complex	GOTERM_FAT_CC	14	
+GO:0005672~transcription factor TFIIA complex	GOTERM_FAT_CC	5	
+GO:0005673~transcription factor TFIIE complex	GOTERM_FAT_CC	2	
+GO:0005674~transcription factor TFIIF complex	GOTERM_FAT_CC	2	
+GO:0005675~holo TFIIH complex	GOTERM_FAT_CC	12	
+GO:0005677~chromatin silencing complex	GOTERM_FAT_CC	13	
+GO:0005680~anaphase-promoting complex	GOTERM_FAT_CC	25	
+GO:0005681~spliceosomal complex	GOTERM_FAT_CC	218	
+GO:0005682~U5 snRNP	GOTERM_FAT_CC	15	
+GO:0005683~U7 snRNP	GOTERM_FAT_CC	7	
+GO:0005684~U2-type spliceosomal complex	GOTERM_FAT_CC	96	
+GO:0005685~U1 snRNP	GOTERM_FAT_CC	19	
+GO:0005686~U2 snRNP	GOTERM_FAT_CC	21	
+GO:0005687~U4 snRNP	GOTERM_FAT_CC	10	
+GO:0005688~U6 snRNP	GOTERM_FAT_CC	8	
+GO:0005689~U12-type spliceosomal complex	GOTERM_FAT_CC	27	
+GO:0005690~U4atac snRNP	GOTERM_FAT_CC	2	
+GO:0005691~U6atac snRNP	GOTERM_FAT_CC	1	
+GO:0005694~chromosome	GOTERM_FAT_CC	1373	
+GO:0005697~telomerase holoenzyme complex	GOTERM_FAT_CC	21	
+GO:0005700~polytene chromosome	GOTERM_FAT_CC	1	
+GO:0005712~chiasma	GOTERM_FAT_CC	2	
+GO:0005713~recombination nodule	GOTERM_FAT_CC	2	
+GO:0005715~late recombination nodule	GOTERM_FAT_CC	1	
+GO:0005720~nuclear heterochromatin	GOTERM_FAT_CC	6	
+GO:0005721~pericentric heterochromatin	GOTERM_FAT_CC	31	
+GO:0005726~perichromatin fibrils	GOTERM_FAT_CC	8	
+GO:0005730~nucleolus	GOTERM_FAT_CC	1004	
+GO:0005731~nucleolus organizer region	GOTERM_FAT_CC	1	
+GO:0005732~small nucleolar ribonucleoprotein complex	GOTERM_FAT_CC	30	
+GO:0005736~DNA-directed RNA polymerase I complex	GOTERM_FAT_CC	13	
+GO:0005739~mitochondrion	GOTERM_FAT_CC	1981	
+GO:0005740~mitochondrial envelope	GOTERM_FAT_CC	846	
+GO:0005741~mitochondrial outer membrane	GOTERM_FAT_CC	195	
+GO:0005742~mitochondrial outer membrane translocase complex	GOTERM_FAT_CC	9	
+GO:0005743~mitochondrial inner membrane	GOTERM_FAT_CC	551	
+GO:0005744~mitochondrial inner membrane presequence translocase complex	GOTERM_FAT_CC	12	
+GO:0005745~m-AAA complex	GOTERM_FAT_CC	3	
+GO:0005746~mitochondrial respiratory chain	GOTERM_FAT_CC	90	
+GO:0005747~mitochondrial respiratory chain complex I	GOTERM_FAT_CC	51	
+GO:0005749~mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	GOTERM_FAT_CC	4	
+GO:0005750~mitochondrial respiratory chain complex III	GOTERM_FAT_CC	12	
+GO:0005751~mitochondrial respiratory chain complex IV	GOTERM_FAT_CC	24	
+GO:0005753~mitochondrial proton-transporting ATP synthase complex	GOTERM_FAT_CC	21	
+GO:0005754~mitochondrial proton-transporting ATP synthase, catalytic core	GOTERM_FAT_CC	1	
+GO:0005757~mitochondrial permeability transition pore complex	GOTERM_FAT_CC	7	
+GO:0005758~mitochondrial intermembrane space	GOTERM_FAT_CC	103	
+GO:0005759~mitochondrial matrix	GOTERM_FAT_CC	366	
+GO:0005760~gamma DNA polymerase complex	GOTERM_FAT_CC	3	
+GO:0005761~mitochondrial ribosome	GOTERM_FAT_CC	98	
+GO:0005762~mitochondrial large ribosomal subunit	GOTERM_FAT_CC	62	
+GO:0005763~mitochondrial small ribosomal subunit	GOTERM_FAT_CC	35	
+GO:0005764~lysosome	GOTERM_FAT_CC	566	
+GO:0005765~lysosomal membrane	GOTERM_FAT_CC	276	
+GO:0005766~primary lysosome	GOTERM_FAT_CC	21	
+GO:0005767~secondary lysosome	GOTERM_FAT_CC	18	
+GO:0005768~endosome	GOTERM_FAT_CC	998	
+GO:0005769~early endosome	GOTERM_FAT_CC	427	
+GO:0005770~late endosome	GOTERM_FAT_CC	297	
+GO:0005771~multivesicular body	GOTERM_FAT_CC	74	
+GO:0005773~vacuole	GOTERM_FAT_CC	672	
+GO:0005774~vacuolar membrane	GOTERM_FAT_CC	338	
+GO:0005775~vacuolar lumen	GOTERM_FAT_CC	26	
+GO:0005776~autophagosome	GOTERM_FAT_CC	112	
+GO:0005777~peroxisome	GOTERM_FAT_CC	152	
+GO:0005778~peroxisomal membrane	GOTERM_FAT_CC	59	
+GO:0005779~integral component of peroxisomal membrane	GOTERM_FAT_CC	17	
+GO:0005782~peroxisomal matrix	GOTERM_FAT_CC	28	
+GO:0005783~endoplasmic reticulum	GOTERM_FAT_CC	1902	
+GO:0005784~Sec61 translocon complex	GOTERM_FAT_CC	6	
+GO:0005785~signal recognition particle receptor complex	GOTERM_FAT_CC	3	
+GO:0005786~signal recognition particle, endoplasmic reticulum targeting	GOTERM_FAT_CC	8	
+GO:0005787~signal peptidase complex	GOTERM_FAT_CC	7	
+GO:0005788~endoplasmic reticulum lumen	GOTERM_FAT_CC	124	
+GO:0005789~endoplasmic reticulum membrane	GOTERM_FAT_CC	1064	
+GO:0005790~smooth endoplasmic reticulum	GOTERM_FAT_CC	38	
+GO:0005791~rough endoplasmic reticulum	GOTERM_FAT_CC	110	
+GO:0005793~endoplasmic reticulum-Golgi intermediate compartment	GOTERM_FAT_CC	110	
+GO:0005794~Golgi apparatus	GOTERM_FAT_CC	1598	
+GO:0005795~Golgi stack	GOTERM_FAT_CC	151	
+GO:0005796~Golgi lumen	GOTERM_FAT_CC	24	
+GO:0005797~Golgi medial cisterna	GOTERM_FAT_CC	26	
+GO:0005798~Golgi-associated vesicle	GOTERM_FAT_CC	96	
+GO:0005801~cis-Golgi network	GOTERM_FAT_CC	74	
+GO:0005802~trans-Golgi network	GOTERM_FAT_CC	253	
+GO:0005811~lipid particle	GOTERM_FAT_CC	110	
+GO:0005813~centrosome	GOTERM_FAT_CC	695	
+GO:0005814~centriole	GOTERM_FAT_CC	157	
+GO:0005815~microtubule organizing center	GOTERM_FAT_CC	852	
+GO:0005818~aster	GOTERM_FAT_CC	12	
+GO:0005819~spindle	GOTERM_FAT_CC	432	
+GO:0005826~actomyosin contractile ring	GOTERM_FAT_CC	7	
+GO:0005827~polar microtubule	GOTERM_FAT_CC	5	
+GO:0005828~kinetochore microtubule	GOTERM_FAT_CC	17	
+GO:0005829~cytosol	GOTERM_FAT_CC	4302	
+GO:0005831~steroid hormone aporeceptor complex	GOTERM_FAT_CC	1	
+GO:0005832~chaperonin-containing T-complex	GOTERM_FAT_CC	10	
+GO:0005833~hemoglobin complex	GOTERM_FAT_CC	13	
+GO:0005834~heterotrimeric G-protein complex	GOTERM_FAT_CC	36	
+GO:0005838~proteasome regulatory particle	GOTERM_FAT_CC	24	
+GO:0005839~proteasome core complex	GOTERM_FAT_CC	19	
+GO:0005840~ribosome	GOTERM_FAT_CC	257	
+GO:0005844~polysome	GOTERM_FAT_CC	79	
+GO:0005845~mRNA cap binding complex	GOTERM_FAT_CC	13	
+GO:0005846~nuclear cap binding complex	GOTERM_FAT_CC	3	
+GO:0005847~mRNA cleavage and polyadenylation specificity factor complex	GOTERM_FAT_CC	18	
+GO:0005848~mRNA cleavage stimulating factor complex	GOTERM_FAT_CC	1	
+GO:0005849~mRNA cleavage factor complex	GOTERM_FAT_CC	22	
+GO:0005850~eukaryotic translation initiation factor 2 complex	GOTERM_FAT_CC	6	
+GO:0005851~eukaryotic translation initiation factor 2B complex	GOTERM_FAT_CC	6	
+GO:0005852~eukaryotic translation initiation factor 3 complex	GOTERM_FAT_CC	16	
+GO:0005853~eukaryotic translation elongation factor 1 complex	GOTERM_FAT_CC	3	
+GO:0005854~nascent polypeptide-associated complex	GOTERM_FAT_CC	3	
+GO:0005858~axonemal dynein complex	GOTERM_FAT_CC	28	
+GO:0005859~muscle myosin complex	GOTERM_FAT_CC	9	
+GO:0005861~troponin complex	GOTERM_FAT_CC	8	
+GO:0005862~muscle thin filament tropomyosin	GOTERM_FAT_CC	2	
+GO:0005863~striated muscle myosin thick filament	GOTERM_FAT_CC	3	
+GO:0005865~striated muscle thin filament	GOTERM_FAT_CC	23	
+GO:0005868~cytoplasmic dynein complex	GOTERM_FAT_CC	27	
+GO:0005869~dynactin complex	GOTERM_FAT_CC	16	
+GO:0005871~kinesin complex	GOTERM_FAT_CC	52	
+GO:0005873~plus-end kinesin complex	GOTERM_FAT_CC	1	
+GO:0005874~microtubule	GOTERM_FAT_CC	461	
+GO:0005875~microtubule associated complex	GOTERM_FAT_CC	158	
+GO:0005876~spindle microtubule	GOTERM_FAT_CC	79	
+GO:0005879~axonemal microtubule	GOTERM_FAT_CC	9	
+GO:0005880~nuclear microtubule	GOTERM_FAT_CC	2	
+GO:0005881~cytoplasmic microtubule	GOTERM_FAT_CC	76	
+GO:0005882~intermediate filament	GOTERM_FAT_CC	216	
+GO:0005883~neurofilament	GOTERM_FAT_CC	12	
+GO:0005884~actin filament	GOTERM_FAT_CC	135	
+GO:0005885~Arp2/3 protein complex	GOTERM_FAT_CC	9	
+GO:0005887~integral component of plasma membrane	GOTERM_FAT_CC	1758	
+GO:0005890~sodium:potassium-exchanging ATPase complex	GOTERM_FAT_CC	12	
+GO:0005891~voltage-gated calcium channel complex	GOTERM_FAT_CC	47	
+GO:0005892~acetylcholine-gated channel complex	GOTERM_FAT_CC	17	
+GO:0005895~interleukin-5 receptor complex	GOTERM_FAT_CC	1	
+GO:0005896~interleukin-6 receptor complex	GOTERM_FAT_CC	3	
+GO:0005899~insulin receptor complex	GOTERM_FAT_CC	5	
+GO:0005900~oncostatin-M receptor complex	GOTERM_FAT_CC	2	
+GO:0005901~caveola	GOTERM_FAT_CC	105	
+GO:0005902~microvillus	GOTERM_FAT_CC	115	
+GO:0005903~brush border	GOTERM_FAT_CC	149	
+GO:0005905~clathrin-coated pit	GOTERM_FAT_CC	71	
+GO:0005911~cell-cell junction	GOTERM_FAT_CC	467	
+GO:0005912~adherens junction	GOTERM_FAT_CC	349	
+GO:0005913~cell-cell adherens junction	GOTERM_FAT_CC	25	
+GO:0005914~spot adherens junction	GOTERM_FAT_CC	3	
+GO:0005915~zonula adherens	GOTERM_FAT_CC	7	
+GO:0005916~fascia adherens	GOTERM_FAT_CC	13	
+GO:0005918~septate junction	GOTERM_FAT_CC	2	
+GO:0005921~gap junction	GOTERM_FAT_CC	33	
+GO:0005922~connexin complex	GOTERM_FAT_CC	20	
+GO:0005923~bicellular tight junction	GOTERM_FAT_CC	147	
+GO:0005924~cell-substrate adherens junction	GOTERM_FAT_CC	204	
+GO:0005925~focal adhesion	GOTERM_FAT_CC	198	
+GO:0005927~muscle tendon junction	GOTERM_FAT_CC	6	
+GO:0005929~cilium	GOTERM_FAT_CC	751	
+GO:0005930~axoneme	GOTERM_FAT_CC	149	
+GO:0005938~cell cortex	GOTERM_FAT_CC	353	
+GO:0005940~septin ring	GOTERM_FAT_CC	14	
+GO:0005942~phosphatidylinositol 3-kinase complex	GOTERM_FAT_CC	31	
+GO:0005943~phosphatidylinositol 3-kinase complex, class IA	GOTERM_FAT_CC	6	
+GO:0005944~phosphatidylinositol 3-kinase complex, class IB	GOTERM_FAT_CC	4	
+GO:0005945~6-phosphofructokinase complex	GOTERM_FAT_CC	3	
+GO:0005947~mitochondrial alpha-ketoglutarate dehydrogenase complex	GOTERM_FAT_CC	6	
+GO:0005948~acetolactate synthase complex	GOTERM_FAT_CC	1	
+GO:0005952~cAMP-dependent protein kinase complex	GOTERM_FAT_CC	9	
+GO:0005953~CAAX-protein geranylgeranyltransferase complex	GOTERM_FAT_CC	2	
+GO:0005954~calcium- and calmodulin-dependent protein kinase complex	GOTERM_FAT_CC	5	
+GO:0005955~calcineurin complex	GOTERM_FAT_CC	7	
+GO:0005956~protein kinase CK2 complex	GOTERM_FAT_CC	3	
+GO:0005958~DNA-dependent protein kinase-DNA ligase 4 complex	GOTERM_FAT_CC	3	
+GO:0005960~glycine cleavage complex	GOTERM_FAT_CC	2	
+GO:0005962~mitochondrial isocitrate dehydrogenase complex (NAD+)	GOTERM_FAT_CC	3	
+GO:0005964~phosphorylase kinase complex	GOTERM_FAT_CC	5	
+GO:0005965~protein farnesyltransferase complex	GOTERM_FAT_CC	2	
+GO:0005967~mitochondrial pyruvate dehydrogenase complex	GOTERM_FAT_CC	7	
+GO:0005968~Rab-protein geranylgeranyltransferase complex	GOTERM_FAT_CC	4	
+GO:0005969~serine-pyruvate aminotransferase complex	GOTERM_FAT_CC	1	
+GO:0005971~ribonucleoside-diphosphate reductase complex	GOTERM_FAT_CC	2	
+GO:0008021~synaptic vesicle	GOTERM_FAT_CC	260	
+GO:0008023~transcription elongation factor complex	GOTERM_FAT_CC	54	
+GO:0008024~cyclin/CDK positive transcription elongation factor complex	GOTERM_FAT_CC	9	
+GO:0008043~intracellular ferritin complex	GOTERM_FAT_CC	2	
+GO:0008074~guanylate cyclase complex, soluble	GOTERM_FAT_CC	4	
+GO:0008076~voltage-gated potassium channel complex	GOTERM_FAT_CC	77	
+GO:0008091~spectrin	GOTERM_FAT_CC	6	
+GO:0008180~COP9 signalosome	GOTERM_FAT_CC	35	
+GO:0008247~1-alkyl-2-acetylglycerophosphocholine esterase complex	GOTERM_FAT_CC	3	
+GO:0008250~oligosaccharyltransferase complex	GOTERM_FAT_CC	14	
+GO:0008275~gamma-tubulin small complex	GOTERM_FAT_CC	3	
+GO:0008278~cohesin complex	GOTERM_FAT_CC	10	
+GO:0008282~ATP-sensitive potassium channel complex	GOTERM_FAT_CC	4	
+GO:0008287~protein serine/threonine phosphatase complex	GOTERM_FAT_CC	57	
+GO:0008290~F-actin capping protein complex	GOTERM_FAT_CC	9	
+GO:0008303~caspase complex	GOTERM_FAT_CC	7	
+GO:0008305~integrin complex	GOTERM_FAT_CC	34	
+GO:0008328~ionotropic glutamate receptor complex	GOTERM_FAT_CC	44	
+GO:0008352~katanin complex	GOTERM_FAT_CC	1	
+GO:0008385~IkappaB kinase complex	GOTERM_FAT_CC	7	
+GO:0008537~proteasome activator complex	GOTERM_FAT_CC	4	
+GO:0008540~proteasome regulatory particle, base subcomplex	GOTERM_FAT_CC	13	
+GO:0008541~proteasome regulatory particle, lid subcomplex	GOTERM_FAT_CC	9	
+GO:0008622~epsilon DNA polymerase complex	GOTERM_FAT_CC	5	
+GO:0008623~CHRAC	GOTERM_FAT_CC	4	
+GO:0009295~nucleoid	GOTERM_FAT_CC	48	
+GO:0009317~acetyl-CoA carboxylase complex	GOTERM_FAT_CC	1	
+GO:0009328~phenylalanine-tRNA ligase complex	GOTERM_FAT_CC	2	
+GO:0009330~DNA topoisomerase complex (ATP-hydrolyzing)	GOTERM_FAT_CC	1	
+GO:0009331~glycerol-3-phosphate dehydrogenase complex	GOTERM_FAT_CC	3	
+GO:0009336~sulfate adenylyltransferase complex (ATP)	GOTERM_FAT_CC	1	
+GO:0009353~mitochondrial oxoglutarate dehydrogenase complex	GOTERM_FAT_CC	1	
+GO:0009360~DNA polymerase III complex	GOTERM_FAT_CC	1	
+GO:0009361~succinate-CoA ligase complex (ADP-forming)	GOTERM_FAT_CC	1	
+GO:0009368~endopeptidase Clp complex	GOTERM_FAT_CC	2	
+GO:0009841~mitochondrial endopeptidase Clp complex	GOTERM_FAT_CC	1	
+GO:0009897~external side of plasma membrane	GOTERM_FAT_CC	669	
+GO:0009898~cytoplasmic side of plasma membrane	GOTERM_FAT_CC	185	
+GO:0009923~fatty acid elongase complex	GOTERM_FAT_CC	2	
+GO:0009925~basal plasma membrane	GOTERM_FAT_CC	62	
+GO:0009986~cell surface	GOTERM_FAT_CC	1279	
+GO:0010008~endosome membrane	GOTERM_FAT_CC	460	
+GO:0010009~cytoplasmic side of endosome membrane	GOTERM_FAT_CC	5	
+GO:0010369~chromocenter	GOTERM_FAT_CC	17	
+GO:0010370~perinucleolar chromocenter	GOTERM_FAT_CC	2	
+GO:0010494~cytoplasmic stress granule	GOTERM_FAT_CC	86	
+GO:0012506~vesicle membrane	GOTERM_FAT_CC	542	
+GO:0012507~ER to Golgi transport vesicle membrane	GOTERM_FAT_CC	28	
+GO:0012510~trans-Golgi network transport vesicle membrane	GOTERM_FAT_CC	18	
+GO:0014069~postsynaptic density	GOTERM_FAT_CC	436	
+GO:0014701~junctional sarcoplasmic reticulum membrane	GOTERM_FAT_CC	4	
+GO:0014704~intercalated disc	GOTERM_FAT_CC	67	
+GO:0014731~spectrin-associated cytoskeleton	GOTERM_FAT_CC	6	
+GO:0014801~longitudinal sarcoplasmic reticulum	GOTERM_FAT_CC	2	
+GO:0014802~terminal cisterna	GOTERM_FAT_CC	3	
+GO:0014804~terminal cisterna lumen	GOTERM_FAT_CC	1	
+GO:0015030~Cajal body	GOTERM_FAT_CC	54	
+GO:0015629~actin cytoskeleton	GOTERM_FAT_CC	530	
+GO:0015630~microtubule cytoskeleton	GOTERM_FAT_CC	1391	
+GO:0015934~large ribosomal subunit	GOTERM_FAT_CC	131	
+GO:0015935~small ribosomal subunit	GOTERM_FAT_CC	88	
+GO:0016010~dystrophin-associated glycoprotein complex	GOTERM_FAT_CC	20	
+GO:0016011~dystroglycan complex	GOTERM_FAT_CC	7	
+GO:0016012~sarcoglycan complex	GOTERM_FAT_CC	6	
+GO:0016014~dystrobrevin complex	GOTERM_FAT_CC	1	
+GO:0016028~rhabdomere	GOTERM_FAT_CC	1	
+GO:0016035~zeta DNA polymerase complex	GOTERM_FAT_CC	4	
+GO:0016222~procollagen-proline 4-dioxygenase complex	GOTERM_FAT_CC	3	
+GO:0016234~inclusion body	GOTERM_FAT_CC	81	
+GO:0016235~aggresome	GOTERM_FAT_CC	38	
+GO:0016272~prefoldin complex	GOTERM_FAT_CC	7	
+GO:0016281~eukaryotic translation initiation factor 4F complex	GOTERM_FAT_CC	11	
+GO:0016282~eukaryotic 43S preinitiation complex	GOTERM_FAT_CC	17	
+GO:0016323~basolateral plasma membrane	GOTERM_FAT_CC	302	
+GO:0016324~apical plasma membrane	GOTERM_FAT_CC	429	
+GO:0016327~apicolateral plasma membrane	GOTERM_FAT_CC	25	
+GO:0016328~lateral plasma membrane	GOTERM_FAT_CC	78	
+GO:0016342~catenin complex	GOTERM_FAT_CC	31	
+GO:0016363~nuclear matrix	GOTERM_FAT_CC	131	
+GO:0016442~RISC complex	GOTERM_FAT_CC	121	
+GO:0016459~myosin complex	GOTERM_FAT_CC	65	
+GO:0016460~myosin II complex	GOTERM_FAT_CC	29	
+GO:0016461~unconventional myosin complex	GOTERM_FAT_CC	7	
+GO:0016469~proton-transporting two-sector ATPase complex	GOTERM_FAT_CC	52	
+GO:0016471~vacuolar proton-transporting V-type ATPase complex	GOTERM_FAT_CC	24	
+GO:0016507~mitochondrial fatty acid beta-oxidation multienzyme complex	GOTERM_FAT_CC	2	
+GO:0016513~core-binding factor complex	GOTERM_FAT_CC	3	
+GO:0016514~SWI/SNF complex	GOTERM_FAT_CC	28	
+GO:0016528~sarcoplasm	GOTERM_FAT_CC	101	
+GO:0016529~sarcoplasmic reticulum	GOTERM_FAT_CC	76	
+GO:0016533~cyclin-dependent protein kinase 5 holoenzyme complex	GOTERM_FAT_CC	3	
+GO:0016580~Sin3 complex	GOTERM_FAT_CC	22	
+GO:0016581~NuRD complex	GOTERM_FAT_CC	17	
+GO:0016586~RSC complex	GOTERM_FAT_CC	14	
+GO:0016589~NURF complex	GOTERM_FAT_CC	7	
+GO:0016590~ACF complex	GOTERM_FAT_CC	2	
+GO:0016591~DNA-directed RNA polymerase II, holoenzyme	GOTERM_FAT_CC	122	
+GO:0016592~mediator complex	GOTERM_FAT_CC	42	
+GO:0016593~Cdc73/Paf1 complex	GOTERM_FAT_CC	8	
+GO:0016600~flotillin complex	GOTERM_FAT_CC	10	
+GO:0016602~CCAAT-binding factor complex	GOTERM_FAT_CC	6	
+GO:0016604~nuclear body	GOTERM_FAT_CC	843	
+GO:0016605~PML body	GOTERM_FAT_CC	104	
+GO:0016607~nuclear speck	GOTERM_FAT_CC	425	
+GO:0016914~follicle-stimulating hormone complex	GOTERM_FAT_CC	2	
+GO:0016935~glycine-gated chloride channel complex	GOTERM_FAT_CC	2	
+GO:0016939~kinesin II complex	GOTERM_FAT_CC	3	
+GO:0016942~insulin-like growth factor binding protein complex	GOTERM_FAT_CC	5	
+GO:0017053~transcriptional repressor complex	GOTERM_FAT_CC	105	
+GO:0017054~negative cofactor 2 complex	GOTERM_FAT_CC	2	
+GO:0017059~serine C-palmitoyltransferase complex	GOTERM_FAT_CC	10	
+GO:0017071~intracellular cyclic nucleotide activated cation channel complex	GOTERM_FAT_CC	7	
+GO:0017087~mitochondrial processing peptidase complex	GOTERM_FAT_CC	1	
+GO:0017090~meprin A complex	GOTERM_FAT_CC	2	
+GO:0017101~aminoacyl-tRNA synthetase multienzyme complex	GOTERM_FAT_CC	12	
+GO:0017109~glutamate-cysteine ligase complex	GOTERM_FAT_CC	2	
+GO:0017117~single-stranded DNA-dependent ATP-dependent DNA helicase complex	GOTERM_FAT_CC	1	
+GO:0017119~Golgi transport complex	GOTERM_FAT_CC	12	
+GO:0017122~protein N-acetylglucosaminyltransferase complex	GOTERM_FAT_CC	1	
+GO:0017133~mitochondrial electron transfer flavoprotein complex	GOTERM_FAT_CC	3	
+GO:0017146~NMDA selective glutamate receptor complex	GOTERM_FAT_CC	9	
+GO:0017177~glucosidase II complex	GOTERM_FAT_CC	2	
+GO:0018444~translation release factor complex	GOTERM_FAT_CC	3	
+GO:0018995~host	GOTERM_FAT_CC	13	
+GO:0019005~SCF ubiquitin ligase complex	GOTERM_FAT_CC	69	
+GO:0019008~molybdopterin synthase complex	GOTERM_FAT_CC	2	
+GO:0019185~snRNA-activating protein complex	GOTERM_FAT_CC	4	
+GO:0019773~proteasome core complex, alpha-subunit complex	GOTERM_FAT_CC	8	
+GO:0019774~proteasome core complex, beta-subunit complex	GOTERM_FAT_CC	11	
+GO:0019814~immunoglobulin complex	GOTERM_FAT_CC	154	
+GO:0019815~B cell receptor complex	GOTERM_FAT_CC	7	
+GO:0019866~organelle inner membrane	GOTERM_FAT_CC	611	
+GO:0019867~outer membrane	GOTERM_FAT_CC	226	
+GO:0019897~extrinsic component of plasma membrane	GOTERM_FAT_CC	189	
+GO:0019898~extrinsic component of membrane	GOTERM_FAT_CC	345	
+GO:0019907~cyclin-dependent protein kinase activating kinase holoenzyme complex	GOTERM_FAT_CC	3	
+GO:0019908~nuclear cyclin-dependent protein kinase holoenzyme complex	GOTERM_FAT_CC	13	
+GO:0020003~symbiont-containing vacuole	GOTERM_FAT_CC	10	
+GO:0020005~symbiont-containing vacuole membrane	GOTERM_FAT_CC	8	
+GO:0020016~ciliary pocket	GOTERM_FAT_CC	3	
+GO:0020018~ciliary pocket membrane	GOTERM_FAT_CC	3	
+GO:0022624~proteasome accessory complex	GOTERM_FAT_CC	28	
+GO:0022625~cytosolic large ribosomal subunit	GOTERM_FAT_CC	68	
+GO:0022626~cytosolic ribosome	GOTERM_FAT_CC	119	
+GO:0022627~cytosolic small ribosomal subunit	GOTERM_FAT_CC	49	
+GO:0030008~TRAPP complex	GOTERM_FAT_CC	17	
+GO:0030014~CCR4-NOT complex	GOTERM_FAT_CC	16	
+GO:0030015~CCR4-NOT core complex	GOTERM_FAT_CC	6	
+GO:0030016~myofibril	GOTERM_FAT_CC	248	
+GO:0030017~sarcomere	GOTERM_FAT_CC	226	
+GO:0030018~Z disc	GOTERM_FAT_CC	146	
+GO:0030027~lamellipodium	GOTERM_FAT_CC	214	
+GO:0030054~cell junction	GOTERM_FAT_CC	1288	
+GO:0030055~cell-substrate junction	GOTERM_FAT_CC	212	
+GO:0030056~hemidesmosome	GOTERM_FAT_CC	10	
+GO:0030057~desmosome	GOTERM_FAT_CC	28	
+GO:0030061~mitochondrial crista	GOTERM_FAT_CC	17	
+GO:0030062~mitochondrial tricarboxylic acid cycle enzyme complex	GOTERM_FAT_CC	11	
+GO:0030112~glycocalyx	GOTERM_FAT_CC	1	
+GO:0030117~membrane coat	GOTERM_FAT_CC	99	
+GO:0030118~clathrin coat	GOTERM_FAT_CC	50	
+GO:0030119~AP-type membrane coat adaptor complex	GOTERM_FAT_CC	44	
+GO:0030120~vesicle coat	GOTERM_FAT_CC	60	
+GO:0030121~AP-1 adaptor complex	GOTERM_FAT_CC	11	
+GO:0030122~AP-2 adaptor complex	GOTERM_FAT_CC	11	
+GO:0030123~AP-3 adaptor complex	GOTERM_FAT_CC	13	
+GO:0030124~AP-4 adaptor complex	GOTERM_FAT_CC	5	
+GO:0030125~clathrin vesicle coat	GOTERM_FAT_CC	32	
+GO:0030126~COPI vesicle coat	GOTERM_FAT_CC	12	
+GO:0030127~COPII vesicle coat	GOTERM_FAT_CC	15	
+GO:0030128~clathrin coat of endocytic vesicle	GOTERM_FAT_CC	12	
+GO:0030130~clathrin coat of trans-Golgi network vesicle	GOTERM_FAT_CC	15	
+GO:0030131~clathrin adaptor complex	GOTERM_FAT_CC	27	
+GO:0030132~clathrin coat of coated pit	GOTERM_FAT_CC	18	
+GO:0030133~transport vesicle	GOTERM_FAT_CC	446	
+GO:0030134~ER to Golgi transport vesicle	GOTERM_FAT_CC	61	
+GO:0030135~coated vesicle	GOTERM_FAT_CC	232	
+GO:0030136~clathrin-coated vesicle	GOTERM_FAT_CC	140	
+GO:0030137~COPI-coated vesicle	GOTERM_FAT_CC	31	
+GO:0030139~endocytic vesicle	GOTERM_FAT_CC	220	
+GO:0030140~trans-Golgi network transport vesicle	GOTERM_FAT_CC	36	
+GO:0030141~secretory granule	GOTERM_FAT_CC	466	
+GO:0030142~Golgi to ER transport vesicle	GOTERM_FAT_CC	2	
+GO:0030173~integral component of Golgi membrane	GOTERM_FAT_CC	57	
+GO:0030175~filopodium	GOTERM_FAT_CC	122	
+GO:0030176~integral component of endoplasmic reticulum membrane	GOTERM_FAT_CC	169	
+GO:0030285~integral component of synaptic vesicle membrane	GOTERM_FAT_CC	48	
+GO:0030286~dynein complex	GOTERM_FAT_CC	59	
+GO:0030289~protein phosphatase 4 complex	GOTERM_FAT_CC	7	
+GO:0030312~external encapsulating structure	GOTERM_FAT_CC	5	
+GO:0030313~cell envelope	GOTERM_FAT_CC	1	
+GO:0030314~junctional membrane complex	GOTERM_FAT_CC	8	
+GO:0030315~T-tubule	GOTERM_FAT_CC	72	
+GO:0030424~axon	GOTERM_FAT_CC	683	
+GO:0030425~dendrite	GOTERM_FAT_CC	820	
+GO:0030426~growth cone	GOTERM_FAT_CC	241	
+GO:0030427~site of polarized growth	GOTERM_FAT_CC	248	
+GO:0030430~host cell cytoplasm	GOTERM_FAT_CC	10	
+GO:0030478~actin cap	GOTERM_FAT_CC	4	
+GO:0030485~smooth muscle contractile fiber	GOTERM_FAT_CC	5	
+GO:0030496~midbody	GOTERM_FAT_CC	230	
+GO:0030526~granulocyte macrophage colony-stimulating factor receptor complex	GOTERM_FAT_CC	5	
+GO:0030529~intracellular ribonucleoprotein complex	GOTERM_FAT_CC	1006	
+GO:0030532~small nuclear ribonucleoprotein complex	GOTERM_FAT_CC	64	
+GO:0030658~transport vesicle membrane	GOTERM_FAT_CC	209	
+GO:0030659~cytoplasmic vesicle membrane	GOTERM_FAT_CC	515	
+GO:0030660~Golgi-associated vesicle membrane	GOTERM_FAT_CC	47	
+GO:0030662~coated vesicle membrane	GOTERM_FAT_CC	106	
+GO:0030663~COPI-coated vesicle membrane	GOTERM_FAT_CC	19	
+GO:0030665~clathrin-coated vesicle membrane	GOTERM_FAT_CC	57	
+GO:0030666~endocytic vesicle membrane	GOTERM_FAT_CC	75	
+GO:0030667~secretory granule membrane	GOTERM_FAT_CC	112	
+GO:0030669~clathrin-coated endocytic vesicle membrane	GOTERM_FAT_CC	13	
+GO:0030670~phagocytic vesicle membrane	GOTERM_FAT_CC	57	
+GO:0030672~synaptic vesicle membrane	GOTERM_FAT_CC	138	
+GO:0030673~axolemma	GOTERM_FAT_CC	20	
+GO:0030677~ribonuclease P complex	GOTERM_FAT_CC	13	
+GO:0030678~mitochondrial ribonuclease P complex	GOTERM_FAT_CC	3	
+GO:0030681~multimeric ribonuclease P complex	GOTERM_FAT_CC	10	
+GO:0030684~preribosome	GOTERM_FAT_CC	80	
+GO:0030685~nucleolar preribosome	GOTERM_FAT_CC	1	
+GO:0030686~90S preribosome	GOTERM_FAT_CC	28	
+GO:0030687~preribosome, large subunit precursor	GOTERM_FAT_CC	25	
+GO:0030688~preribosome, small subunit precursor	GOTERM_FAT_CC	14	
+GO:0030689~Noc complex	GOTERM_FAT_CC	4	
+GO:0030690~Noc1p-Noc2p complex	GOTERM_FAT_CC	2	
+GO:0030691~Noc2p-Noc3p complex	GOTERM_FAT_CC	1	
+GO:0030692~Noc4p-Nop14p complex	GOTERM_FAT_CC	2	
+GO:0030849~autosome	GOTERM_FAT_CC	2	
+GO:0030863~cortical cytoskeleton	GOTERM_FAT_CC	122	
+GO:0030864~cortical actin cytoskeleton	GOTERM_FAT_CC	87	
+GO:0030867~rough endoplasmic reticulum membrane	GOTERM_FAT_CC	29	
+GO:0030868~smooth endoplasmic reticulum membrane	GOTERM_FAT_CC	6	
+GO:0030870~Mre11 complex	GOTERM_FAT_CC	5	
+GO:0030874~nucleolar chromatin	GOTERM_FAT_CC	1	
+GO:0030877~beta-catenin destruction complex	GOTERM_FAT_CC	13	
+GO:0030880~RNA polymerase complex	GOTERM_FAT_CC	149	
+GO:0030891~VCB complex	GOTERM_FAT_CC	8	
+GO:0030892~mitotic cohesin complex	GOTERM_FAT_CC	5	
+GO:0030893~meiotic cohesin complex	GOTERM_FAT_CC	8	
+GO:0030894~replisome	GOTERM_FAT_CC	27	
+GO:0030895~apolipoprotein B mRNA editing enzyme complex	GOTERM_FAT_CC	1	
+GO:0030896~checkpoint clamp complex	GOTERM_FAT_CC	5	
+GO:0030897~HOPS complex	GOTERM_FAT_CC	11	
+GO:0030904~retromer complex	GOTERM_FAT_CC	21	
+GO:0030905~retromer, tubulation complex	GOTERM_FAT_CC	2	
+GO:0030906~retromer, cargo-selective complex	GOTERM_FAT_CC	3	
+GO:0030914~STAGA complex	GOTERM_FAT_CC	12	
+GO:0030915~Smc5-Smc6 complex	GOTERM_FAT_CC	7	
+GO:0030934~anchoring collagen complex	GOTERM_FAT_CC	1	
+GO:0030935~sheet-forming collagen trimer	GOTERM_FAT_CC	1	
+GO:0030956~glutamyl-tRNA(Gln) amidotransferase complex	GOTERM_FAT_CC	3	
+GO:0030964~NADH dehydrogenase complex	GOTERM_FAT_CC	51	
+GO:0030981~cortical microtubule cytoskeleton	GOTERM_FAT_CC	5	
+GO:0030990~intraciliary transport particle	GOTERM_FAT_CC	28	
+GO:0030991~intraciliary transport particle A	GOTERM_FAT_CC	8	
+GO:0030992~intraciliary transport particle B	GOTERM_FAT_CC	21	
+GO:0031002~actin rod	GOTERM_FAT_CC	1	
+GO:0031010~ISWI-type complex	GOTERM_FAT_CC	14	
+GO:0031011~Ino80 complex	GOTERM_FAT_CC	16	
+GO:0031012~extracellular matrix	GOTERM_FAT_CC	362	
+GO:0031021~interphase microtubule organizing center	GOTERM_FAT_CC	4	
+GO:0031045~dense core granule	GOTERM_FAT_CC	35	
+GO:0031074~nucleocytoplasmic shuttling complex	GOTERM_FAT_CC	13	
+GO:0031080~nuclear pore outer ring	GOTERM_FAT_CC	10	
+GO:0031082~BLOC complex	GOTERM_FAT_CC	20	
+GO:0031083~BLOC-1 complex	GOTERM_FAT_CC	15	
+GO:0031084~BLOC-2 complex	GOTERM_FAT_CC	3	
+GO:0031085~BLOC-3 complex	GOTERM_FAT_CC	2	
+GO:0031088~platelet dense granule membrane	GOTERM_FAT_CC	3	
+GO:0031091~platelet alpha granule	GOTERM_FAT_CC	21	
+GO:0031092~platelet alpha granule membrane	GOTERM_FAT_CC	3	
+GO:0031094~platelet dense tubular network	GOTERM_FAT_CC	5	
+GO:0031095~platelet dense tubular network membrane	GOTERM_FAT_CC	2	
+GO:0031105~septin complex	GOTERM_FAT_CC	14	
+GO:0031143~pseudopodium	GOTERM_FAT_CC	15	
+GO:0031166~integral component of vacuolar membrane	GOTERM_FAT_CC	13	
+GO:0031201~SNARE complex	GOTERM_FAT_CC	49	
+GO:0031205~endoplasmic reticulum Sec complex	GOTERM_FAT_CC	1	
+GO:0031207~Sec62/Sec63 complex	GOTERM_FAT_CC	1	
+GO:0031209~SCAR complex	GOTERM_FAT_CC	13	
+GO:0031211~endoplasmic reticulum palmitoyltransferase complex	GOTERM_FAT_CC	10	
+GO:0031213~RSF complex	GOTERM_FAT_CC	2	
+GO:0031225~anchored component of membrane	GOTERM_FAT_CC	207	
+GO:0031226~intrinsic component of plasma membrane	GOTERM_FAT_CC	1848	
+GO:0031227~intrinsic component of endoplasmic reticulum membrane	GOTERM_FAT_CC	177	
+GO:0031228~intrinsic component of Golgi membrane	GOTERM_FAT_CC	59	
+GO:0031229~intrinsic component of nuclear inner membrane	GOTERM_FAT_CC	14	
+GO:0031231~intrinsic component of peroxisomal membrane	GOTERM_FAT_CC	18	
+GO:0031232~extrinsic component of external side of plasma membrane	GOTERM_FAT_CC	9	
+GO:0031233~intrinsic component of external side of plasma membrane	GOTERM_FAT_CC	29	
+GO:0031234~extrinsic component of cytoplasmic side of plasma membrane	GOTERM_FAT_CC	107	
+GO:0031235~intrinsic component of the cytoplasmic side of the plasma membrane	GOTERM_FAT_CC	6	
+GO:0031248~protein acetyltransferase complex	GOTERM_FAT_CC	101	
+GO:0031251~PAN complex	GOTERM_FAT_CC	2	
+GO:0031252~cell leading edge	GOTERM_FAT_CC	469	
+GO:0031253~cell projection membrane	GOTERM_FAT_CC	388	
+GO:0031254~cell trailing edge	GOTERM_FAT_CC	13	
+GO:0031256~leading edge membrane	GOTERM_FAT_CC	194	
+GO:0031257~cell trailing edge membrane	GOTERM_FAT_CC	1	
+GO:0031258~lamellipodium membrane	GOTERM_FAT_CC	23	
+GO:0031259~uropod membrane	GOTERM_FAT_CC	1	
+GO:0031260~pseudopodium membrane	GOTERM_FAT_CC	1	
+GO:0031261~DNA replication preinitiation complex	GOTERM_FAT_CC	12	
+GO:0031262~Ndc80 complex	GOTERM_FAT_CC	4	
+GO:0031264~death-inducing signaling complex	GOTERM_FAT_CC	7	
+GO:0031265~CD95 death-inducing signaling complex	GOTERM_FAT_CC	5	
+GO:0031298~replication fork protection complex	GOTERM_FAT_CC	3	
+GO:0031300~intrinsic component of organelle membrane	GOTERM_FAT_CC	279	
+GO:0031301~integral component of organelle membrane	GOTERM_FAT_CC	252	
+GO:0031302~intrinsic component of endosome membrane	GOTERM_FAT_CC	6	
+GO:0031303~integral component of endosome membrane	GOTERM_FAT_CC	4	
+GO:0031304~intrinsic component of mitochondrial inner membrane	GOTERM_FAT_CC	51	
+GO:0031305~integral component of mitochondrial inner membrane	GOTERM_FAT_CC	50	
+GO:0031306~intrinsic component of mitochondrial outer membrane	GOTERM_FAT_CC	26	
+GO:0031307~integral component of mitochondrial outer membrane	GOTERM_FAT_CC	25	
+GO:0031308~intrinsic component of nuclear outer membrane	GOTERM_FAT_CC	1	
+GO:0031309~integral component of nuclear outer membrane	GOTERM_FAT_CC	1	
+GO:0031310~intrinsic component of vacuolar membrane	GOTERM_FAT_CC	13	
+GO:0031312~extrinsic component of organelle membrane	GOTERM_FAT_CC	70	
+GO:0031313~extrinsic component of endosome membrane	GOTERM_FAT_CC	12	
+GO:0031314~extrinsic component of mitochondrial inner membrane	GOTERM_FAT_CC	18	
+GO:0031315~extrinsic component of mitochondrial outer membrane	GOTERM_FAT_CC	7	
+GO:0031332~RNAi effector complex	GOTERM_FAT_CC	122	
+GO:0031362~anchored component of external side of plasma membrane	GOTERM_FAT_CC	24	
+GO:0031371~ubiquitin conjugating enzyme complex	GOTERM_FAT_CC	8	
+GO:0031372~UBC13-MMS2 complex	GOTERM_FAT_CC	2	
+GO:0031379~RNA-directed RNA polymerase complex	GOTERM_FAT_CC	2	
+GO:0031380~nuclear RNA-directed RNA polymerase complex	GOTERM_FAT_CC	1	
+GO:0031389~Rad17 RFC-like complex	GOTERM_FAT_CC	1	
+GO:0031390~Ctf18 RFC-like complex	GOTERM_FAT_CC	8	
+GO:0031391~Elg1 RFC-like complex	GOTERM_FAT_CC	3	
+GO:0031414~N-terminal protein acetyltransferase complex	GOTERM_FAT_CC	12	
+GO:0031415~NatA complex	GOTERM_FAT_CC	7	
+GO:0031416~NatB complex	GOTERM_FAT_CC	2	
+GO:0031417~NatC complex	GOTERM_FAT_CC	3	
+GO:0031422~RecQ helicase-Topo III complex	GOTERM_FAT_CC	4	
+GO:0031428~box C/D snoRNP complex	GOTERM_FAT_CC	7	
+GO:0031429~box H/ACA snoRNP complex	GOTERM_FAT_CC	5	
+GO:0031430~M band	GOTERM_FAT_CC	26	
+GO:0031431~Dbf4-dependent protein kinase complex	GOTERM_FAT_CC	1	
+GO:0031436~BRCA1-BARD1 complex	GOTERM_FAT_CC	3	
+GO:0031461~cullin-RING ubiquitin ligase complex	GOTERM_FAT_CC	228	
+GO:0031462~Cul2-RING ubiquitin ligase complex	GOTERM_FAT_CC	60	
+GO:0031463~Cul3-RING ubiquitin ligase complex	GOTERM_FAT_CC	45	
+GO:0031464~Cul4A-RING E3 ubiquitin ligase complex	GOTERM_FAT_CC	14	
+GO:0031465~Cul4B-RING E3 ubiquitin ligase complex	GOTERM_FAT_CC	5	
+GO:0031466~Cul5-RING ubiquitin ligase complex	GOTERM_FAT_CC	10	
+GO:0031467~Cul7-RING ubiquitin ligase complex	GOTERM_FAT_CC	4	
+GO:0031475~myosin V complex	GOTERM_FAT_CC	1	
+GO:0031477~myosin VII complex	GOTERM_FAT_CC	1	
+GO:0031499~TRAMP complex	GOTERM_FAT_CC	5	
+GO:0031501~mannosyltransferase complex	GOTERM_FAT_CC	5	
+GO:0031510~SUMO activating enzyme complex	GOTERM_FAT_CC	2	
+GO:0031511~Mis6-Sim4 complex	GOTERM_FAT_CC	2	
+GO:0031514~motile cilium	GOTERM_FAT_CC	277	
+GO:0031515~tRNA (m1A) methyltransferase complex	GOTERM_FAT_CC	2	
+GO:0031519~PcG protein complex	GOTERM_FAT_CC	52	
+GO:0031523~Myb complex	GOTERM_FAT_CC	4	
+GO:0031526~brush border membrane	GOTERM_FAT_CC	81	
+GO:0031527~filopodium membrane	GOTERM_FAT_CC	19	
+GO:0031528~microvillus membrane	GOTERM_FAT_CC	31	
+GO:0031533~mRNA cap methyltransferase complex	GOTERM_FAT_CC	2	
+GO:0031588~nucleotide-activated protein kinase complex	GOTERM_FAT_CC	11	
+GO:0031592~centrosomal corona	GOTERM_FAT_CC	1	
+GO:0031594~neuromuscular junction	GOTERM_FAT_CC	102	
+GO:0031595~nuclear proteasome complex	GOTERM_FAT_CC	3	
+GO:0031597~cytosolic proteasome complex	GOTERM_FAT_CC	10	
+GO:0031616~spindle pole centrosome	GOTERM_FAT_CC	20	
+GO:0031617~NMS complex	GOTERM_FAT_CC	10	
+GO:0031672~A band	GOTERM_FAT_CC	46	
+GO:0031673~H zone	GOTERM_FAT_CC	2	
+GO:0031674~I band	GOTERM_FAT_CC	160	
+GO:0031680~G-protein beta/gamma-subunit complex	GOTERM_FAT_CC	15	
+GO:0031838~haptoglobin-hemoglobin complex	GOTERM_FAT_CC	14	
+GO:0031901~early endosome membrane	GOTERM_FAT_CC	177	
+GO:0031902~late endosome membrane	GOTERM_FAT_CC	150	
+GO:0031903~microbody membrane	GOTERM_FAT_CC	59	
+GO:0031904~endosome lumen	GOTERM_FAT_CC	11	
+GO:0031905~early endosome lumen	GOTERM_FAT_CC	2	
+GO:0031906~late endosome lumen	GOTERM_FAT_CC	2	
+GO:0031907~microbody lumen	GOTERM_FAT_CC	28	
+GO:0031931~TORC1 complex	GOTERM_FAT_CC	8	
+GO:0031932~TORC2 complex	GOTERM_FAT_CC	11	
+GO:0031941~filamentous actin	GOTERM_FAT_CC	38	
+GO:0031965~nuclear membrane	GOTERM_FAT_CC	311	
+GO:0031966~mitochondrial membrane	GOTERM_FAT_CC	789	
+GO:0031967~organelle envelope	GOTERM_FAT_CC	1320	
+GO:0031968~organelle outer membrane	GOTERM_FAT_CC	226	
+GO:0031970~organelle envelope lumen	GOTERM_FAT_CC	116	
+GO:0031975~envelope	GOTERM_FAT_CC	1321	
+GO:0031983~vesicle lumen	GOTERM_FAT_CC	25	
+GO:0031984~organelle subcompartment	GOTERM_FAT_CC	398	
+GO:0031985~Golgi cisterna	GOTERM_FAT_CC	118	
+GO:0032002~interleukin-28 receptor complex	GOTERM_FAT_CC	2	
+GO:0032009~early phagosome	GOTERM_FAT_CC	13	
+GO:0032010~phagolysosome	GOTERM_FAT_CC	4	
+GO:0032021~NELF complex	GOTERM_FAT_CC	4	
+GO:0032039~integrator complex	GOTERM_FAT_CC	19	
+GO:0032040~small-subunit processome	GOTERM_FAT_CC	38	
+GO:0032044~DSIF complex	GOTERM_FAT_CC	3	
+GO:0032045~guanyl-nucleotide exchange factor complex	GOTERM_FAT_CC	13	
+GO:0032059~bleb	GOTERM_FAT_CC	9	
+GO:0032116~SMC loading complex	GOTERM_FAT_CC	2	
+GO:0032127~dense core granule membrane	GOTERM_FAT_CC	10	
+GO:0032133~chromosome passenger complex	GOTERM_FAT_CC	6	
+GO:0032144~4-aminobutyrate transaminase complex	GOTERM_FAT_CC	1	
+GO:0032153~cell division site	GOTERM_FAT_CC	76	
+GO:0032154~cleavage furrow	GOTERM_FAT_CC	57	
+GO:0032155~cell division site part	GOTERM_FAT_CC	66	
+GO:0032156~septin cytoskeleton	GOTERM_FAT_CC	16	
+GO:0032160~septin filament array	GOTERM_FAT_CC	1	
+GO:0032173~septin collar	GOTERM_FAT_CC	1	
+GO:0032279~asymmetric synapse	GOTERM_FAT_CC	442	
+GO:0032280~symmetric synapse	GOTERM_FAT_CC	8	
+GO:0032281~AMPA glutamate receptor complex	GOTERM_FAT_CC	29	
+GO:0032299~ribonuclease H2 complex	GOTERM_FAT_CC	3	
+GO:0032300~mismatch repair complex	GOTERM_FAT_CC	9	
+GO:0032301~MutSalpha complex	GOTERM_FAT_CC	3	
+GO:0032302~MutSbeta complex	GOTERM_FAT_CC	2	
+GO:0032311~angiogenin-PRI complex	GOTERM_FAT_CC	3	
+GO:0032389~MutLalpha complex	GOTERM_FAT_CC	3	
+GO:0032391~photoreceptor connecting cilium	GOTERM_FAT_CC	46	
+GO:0032398~MHC class Ib protein complex	GOTERM_FAT_CC	24	
+GO:0032419~extrinsic component of lysosome membrane	GOTERM_FAT_CC	1	
+GO:0032420~stereocilium	GOTERM_FAT_CC	60	
+GO:0032421~stereocilium bundle	GOTERM_FAT_CC	71	
+GO:0032426~stereocilium tip	GOTERM_FAT_CC	21	
+GO:0032432~actin filament bundle	GOTERM_FAT_CC	99	
+GO:0032433~filopodium tip	GOTERM_FAT_CC	21	
+GO:0032437~cuticular plate	GOTERM_FAT_CC	12	
+GO:0032444~activin responsive factor complex	GOTERM_FAT_CC	3	
+GO:0032449~CBM complex	GOTERM_FAT_CC	4	
+GO:0032473~cytoplasmic side of mitochondrial outer membrane	GOTERM_FAT_CC	2	
+GO:0032541~cortical endoplasmic reticulum	GOTERM_FAT_CC	8	
+GO:0032545~CURI complex	GOTERM_FAT_CC	2	
+GO:0032580~Golgi cisterna membrane	GOTERM_FAT_CC	73	
+GO:0032584~growth cone membrane	GOTERM_FAT_CC	9	
+GO:0032585~multivesicular body membrane	GOTERM_FAT_CC	27	
+GO:0032587~ruffle membrane	GOTERM_FAT_CC	101	
+GO:0032588~trans-Golgi network membrane	GOTERM_FAT_CC	47	
+GO:0032589~neuron projection membrane	GOTERM_FAT_CC	72	
+GO:0032590~dendrite membrane	GOTERM_FAT_CC	53	
+GO:0032591~dendritic spine membrane	GOTERM_FAT_CC	17	
+GO:0032592~integral component of mitochondrial membrane	GOTERM_FAT_CC	84	
+GO:0032593~insulin-responsive compartment	GOTERM_FAT_CC	11	
+GO:0032777~Piccolo NuA4 histone acetyltransferase complex	GOTERM_FAT_CC	4	
+GO:0032783~ELL-EAF complex	GOTERM_FAT_CC	7	
+GO:0032797~SMN complex	GOTERM_FAT_CC	10	
+GO:0032798~Swi5-Sfr1 complex	GOTERM_FAT_CC	2	
+GO:0032806~carboxy-terminal domain protein kinase complex	GOTERM_FAT_CC	21	
+GO:0032807~DNA ligase IV complex	GOTERM_FAT_CC	3	
+GO:0032809~neuronal cell body membrane	GOTERM_FAT_CC	38	
+GO:0032838~cell projection cytoplasm	GOTERM_FAT_CC	107	
+GO:0032839~dendrite cytoplasm	GOTERM_FAT_CC	41	
+GO:0032936~SREBP-SCAP complex	GOTERM_FAT_CC	1	
+GO:0032937~SREBP-SCAP-Insig complex	GOTERM_FAT_CC	3	
+GO:0032982~myosin filament	GOTERM_FAT_CC	23	
+GO:0032983~kainate selective glutamate receptor complex	GOTERM_FAT_CC	6	
+GO:0032993~protein-DNA complex	GOTERM_FAT_CC	258	
+GO:0032994~protein-lipid complex	GOTERM_FAT_CC	50	
+GO:0032996~Bcl3-Bcl10 complex	GOTERM_FAT_CC	1	
+GO:0032997~Fc receptor complex	GOTERM_FAT_CC	5	
+GO:0032998~Fc-epsilon receptor I complex	GOTERM_FAT_CC	3	
+GO:0033001~Fc-gamma receptor III complex	GOTERM_FAT_CC	3	
+GO:0033010~paranodal junction	GOTERM_FAT_CC	11	
+GO:0033011~perinuclear theca	GOTERM_FAT_CC	5	
+GO:0033017~sarcoplasmic reticulum membrane	GOTERM_FAT_CC	39	
+GO:0033018~sarcoplasmic reticulum lumen	GOTERM_FAT_CC	7	
+GO:0033061~DNA recombinase mediator complex	GOTERM_FAT_CC	7	
+GO:0033063~Rad51B-Rad51C-Rad51D-XRCC2 complex	GOTERM_FAT_CC	4	
+GO:0033065~Rad51C-XRCC3 complex	GOTERM_FAT_CC	2	
+GO:0033093~Weibel-Palade body	GOTERM_FAT_CC	6	
+GO:0033100~NuA3 histone acetyltransferase complex	GOTERM_FAT_CC	1	
+GO:0033106~cis-Golgi network membrane	GOTERM_FAT_CC	29	
+GO:0033116~endoplasmic reticulum-Golgi intermediate compartment membrane	GOTERM_FAT_CC	53	
+GO:0033150~cytoskeletal calyx	GOTERM_FAT_CC	2	
+GO:0033162~melanosome membrane	GOTERM_FAT_CC	18	
+GO:0033165~interphotoreceptor matrix	GOTERM_FAT_CC	5	
+GO:0033176~proton-transporting V-type ATPase complex	GOTERM_FAT_CC	29	
+GO:0033177~proton-transporting two-sector ATPase complex, proton-transporting domain	GOTERM_FAT_CC	25	
+GO:0033178~proton-transporting two-sector ATPase complex, catalytic domain	GOTERM_FAT_CC	18	
+GO:0033179~proton-transporting V-type ATPase, V0 domain	GOTERM_FAT_CC	10	
+GO:0033180~proton-transporting V-type ATPase, V1 domain	GOTERM_FAT_CC	11	
+GO:0033181~plasma membrane proton-transporting V-type ATPase complex	GOTERM_FAT_CC	4	
+GO:0033185~dolichol-phosphate-mannose synthase complex	GOTERM_FAT_CC	3	
+GO:0033186~CAF-1 complex	GOTERM_FAT_CC	3	
+GO:0033202~DNA helicase complex	GOTERM_FAT_CC	17	
+GO:0033256~I-kappaB/NF-kappaB complex	GOTERM_FAT_CC	2	
+GO:0033257~Bcl3/NF-kappaB2 complex	GOTERM_FAT_CC	2	
+GO:0033263~CORVET complex	GOTERM_FAT_CC	7	
+GO:0033267~axon part	GOTERM_FAT_CC	279	
+GO:0033268~node of Ranvier	GOTERM_FAT_CC	20	
+GO:0033269~internode region of axon	GOTERM_FAT_CC	4	
+GO:0033270~paranode region of axon	GOTERM_FAT_CC	17	
+GO:0033276~transcription factor TFTC complex	GOTERM_FAT_CC	18	
+GO:0033290~eukaryotic 48S preinitiation complex	GOTERM_FAT_CC	15	
+GO:0033291~eukaryotic 80S initiation complex	GOTERM_FAT_CC	1	
+GO:0033391~chromatoid body	GOTERM_FAT_CC	17	
+GO:0033503~HULC complex	GOTERM_FAT_CC	4	
+GO:0033553~rDNA heterochromatin	GOTERM_FAT_CC	5	
+GO:0033557~Slx1-Slx4 complex	GOTERM_FAT_CC	2	
+GO:0033565~ESCRT-0 complex	GOTERM_FAT_CC	2	
+GO:0033588~Elongator holoenzyme complex	GOTERM_FAT_CC	7	
+GO:0033593~BRCA2-MAGE-D1 complex	GOTERM_FAT_CC	1	
+GO:0033596~TSC1-TSC2 complex	GOTERM_FAT_CC	3	
+GO:0033597~mitotic checkpoint complex	GOTERM_FAT_CC	4	
+GO:0033643~host cell part	GOTERM_FAT_CC	11	
+GO:0033646~host intracellular part	GOTERM_FAT_CC	10	
+GO:0033655~host cell cytoplasm part	GOTERM_FAT_CC	10	
+GO:0034045~pre-autophagosomal structure membrane	GOTERM_FAT_CC	18	
+GO:0034066~RIC1-RGP1 guanyl-nucleotide exchange factor complex	GOTERM_FAT_CC	2	
+GO:0034098~VCP-NPL4-UFD1 AAA ATPase complex	GOTERM_FAT_CC	8	
+GO:0034245~mitochondrial DNA-directed RNA polymerase complex	GOTERM_FAT_CC	1	
+GO:0034271~phosphatidylinositol 3-kinase complex, class III, type I	GOTERM_FAT_CC	4	
+GO:0034272~phosphatidylinositol 3-kinase complex, class III, type II	GOTERM_FAT_CC	4	
+GO:0034274~Atg12-Atg5-Atg16 complex	GOTERM_FAT_CC	5	
+GO:0034358~plasma lipoprotein particle	GOTERM_FAT_CC	47	
+GO:0034359~mature chylomicron	GOTERM_FAT_CC	1	
+GO:0034361~very-low-density lipoprotein particle	GOTERM_FAT_CC	30	
+GO:0034362~low-density lipoprotein particle	GOTERM_FAT_CC	14	
+GO:0034363~intermediate-density lipoprotein particle	GOTERM_FAT_CC	7	
+GO:0034364~high-density lipoprotein particle	GOTERM_FAT_CC	38	
+GO:0034365~discoidal high-density lipoprotein particle	GOTERM_FAT_CC	3	
+GO:0034366~spherical high-density lipoprotein particle	GOTERM_FAT_CC	9	
+GO:0034385~triglyceride-rich plasma lipoprotein particle	GOTERM_FAT_CC	30	
+GO:0034388~Pwp2p-containing subcomplex of 90S preribosome	GOTERM_FAT_CC	5	
+GO:0034399~nuclear periphery	GOTERM_FAT_CC	160	
+GO:0034423~autophagosome lumen	GOTERM_FAT_CC	1	
+GO:0034451~centriolar satellite	GOTERM_FAT_CC	117	
+GO:0034455~t-UTP complex	GOTERM_FAT_CC	3	
+GO:0034456~UTP-C complex	GOTERM_FAT_CC	2	
+GO:0034457~Mpp10 complex	GOTERM_FAT_CC	3	
+GO:0034464~BBSome	GOTERM_FAT_CC	8	
+GO:0034466~chromaffin granule lumen	GOTERM_FAT_CC	2	
+GO:0034506~chromosome, centromeric core domain	GOTERM_FAT_CC	12	
+GO:0034515~proteasome storage granule	GOTERM_FAT_CC	3	
+GO:0034518~RNA cap binding complex	GOTERM_FAT_CC	13	
+GO:0034592~synaptic vesicle lumen	GOTERM_FAT_CC	1	
+GO:0034657~GID complex	GOTERM_FAT_CC	5	
+GO:0034663~endoplasmic reticulum chaperone complex	GOTERM_FAT_CC	12	
+GO:0034665~integrin alpha1-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034666~integrin alpha2-beta1 complex	GOTERM_FAT_CC	3	
+GO:0034667~integrin alpha3-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034668~integrin alpha4-beta1 complex	GOTERM_FAT_CC	1	
+GO:0034669~integrin alpha4-beta7 complex	GOTERM_FAT_CC	2	
+GO:0034673~inhibin-betaglycan-ActRII complex	GOTERM_FAT_CC	3	
+GO:0034674~integrin alpha5-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034676~integrin alpha6-beta4 complex	GOTERM_FAT_CC	1	
+GO:0034677~integrin alpha7-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034679~integrin alpha9-beta1 complex	GOTERM_FAT_CC	3	
+GO:0034680~integrin alpha10-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034681~integrin alpha11-beta1 complex	GOTERM_FAT_CC	2	
+GO:0034683~integrin alphav-beta3 complex	GOTERM_FAT_CC	3	
+GO:0034684~integrin alphav-beta5 complex	GOTERM_FAT_CC	2	
+GO:0034685~integrin alphav-beta6 complex	GOTERM_FAT_CC	2	
+GO:0034686~integrin alphav-beta8 complex	GOTERM_FAT_CC	2	
+GO:0034687~integrin alphaL-beta2 complex	GOTERM_FAT_CC	3	
+GO:0034688~integrin alphaM-beta2 complex	GOTERM_FAT_CC	2	
+GO:0034693~U11/U12 snRNP	GOTERM_FAT_CC	1	
+GO:0034702~ion channel complex	GOTERM_FAT_CC	301	
+GO:0034703~cation channel complex	GOTERM_FAT_CC	228	
+GO:0034704~calcium channel complex	GOTERM_FAT_CC	70	
+GO:0034705~potassium channel complex	GOTERM_FAT_CC	90	
+GO:0034706~sodium channel complex	GOTERM_FAT_CC	28	
+GO:0034707~chloride channel complex	GOTERM_FAT_CC	50	
+GO:0034708~methyltransferase complex	GOTERM_FAT_CC	109	
+GO:0034709~methylosome	GOTERM_FAT_CC	13	
+GO:0034715~pICln-Sm protein complex	GOTERM_FAT_CC	7	
+GO:0034718~SMN-Gemin2 complex	GOTERM_FAT_CC	1	
+GO:0034719~SMN-Sm protein complex	GOTERM_FAT_CC	16	
+GO:0034750~Scrib-APC-beta-catenin complex	GOTERM_FAT_CC	3	
+GO:0034751~aryl hydrocarbon receptor complex	GOTERM_FAT_CC	8	
+GO:0034752~cytosolic aryl hydrocarbon receptor complex	GOTERM_FAT_CC	1	
+GO:0034753~nuclear aryl hydrocarbon receptor complex	GOTERM_FAT_CC	1	
+GO:0034774~secretory granule lumen	GOTERM_FAT_CC	17	
+GO:0034777~recycling endosome lumen	GOTERM_FAT_CC	1	
+GO:0034967~Set3 complex	GOTERM_FAT_CC	2	
+GO:0034974~Swi5-Swi2 complex	GOTERM_FAT_CC	1	
+GO:0034990~nuclear mitotic cohesin complex	GOTERM_FAT_CC	4	
+GO:0034991~nuclear meiotic cohesin complex	GOTERM_FAT_CC	8	
+GO:0034992~microtubule organizing center attachment site	GOTERM_FAT_CC	11	
+GO:0034993~LINC complex	GOTERM_FAT_CC	11	
+GO:0034998~oligosaccharyltransferase I complex	GOTERM_FAT_CC	2	
+GO:0035000~oligosaccharyltransferase III complex	GOTERM_FAT_CC	1	
+GO:0035003~subapical complex	GOTERM_FAT_CC	6	
+GO:0035032~phosphatidylinositol 3-kinase complex, class III	GOTERM_FAT_CC	8	
+GO:0035060~brahma complex	GOTERM_FAT_CC	14	
+GO:0035061~interchromatin granule	GOTERM_FAT_CC	5	
+GO:0035097~histone methyltransferase complex	GOTERM_FAT_CC	78	
+GO:0035098~ESC/E(Z) complex	GOTERM_FAT_CC	18	
+GO:0035101~FACT complex	GOTERM_FAT_CC	4	
+GO:0035102~PRC1 complex	GOTERM_FAT_CC	16	
+GO:0035145~exon-exon junction complex	GOTERM_FAT_CC	22	
+GO:0035189~Rb-E2F complex	GOTERM_FAT_CC	4	
+GO:0035253~ciliary rootlet	GOTERM_FAT_CC	17	
+GO:0035267~NuA4 histone acetyltransferase complex	GOTERM_FAT_CC	27	
+GO:0035327~transcriptionally active chromatin	GOTERM_FAT_CC	24	
+GO:0035339~SPOTS complex	GOTERM_FAT_CC	5	
+GO:0035354~Toll-like receptor 1-Toll-like receptor 2 protein complex	GOTERM_FAT_CC	2	
+GO:0035355~Toll-like receptor 2-Toll-like receptor 6 protein complex	GOTERM_FAT_CC	2	
+GO:0035363~histone locus body	GOTERM_FAT_CC	4	
+GO:0035370~UBC13-UEV1A complex	GOTERM_FAT_CC	2	
+GO:0035371~microtubule plus-end	GOTERM_FAT_CC	25	
+GO:0035517~PR-DUB complex	GOTERM_FAT_CC	4	
+GO:0035525~NF-kappaB p50/p65 complex	GOTERM_FAT_CC	1	
+GO:0035577~azurophil granule membrane	GOTERM_FAT_CC	2	
+GO:0035578~azurophil granule lumen	GOTERM_FAT_CC	2	
+GO:0035579~specific granule membrane	GOTERM_FAT_CC	1	
+GO:0035631~CD40 receptor complex	GOTERM_FAT_CC	11	
+GO:0035632~mitochondrial prohibitin complex	GOTERM_FAT_CC	2	
+GO:0035657~eRF1 methyltransferase complex	GOTERM_FAT_CC	1	
+GO:0035658~Mon1-Ccz1 complex	GOTERM_FAT_CC	4	
+GO:0035686~sperm fibrous sheath	GOTERM_FAT_CC	15	
+GO:0035692~macrophage migration inhibitory factor receptor complex	GOTERM_FAT_CC	2	
+GO:0035693~NOS2-CD74 complex	GOTERM_FAT_CC	1	
+GO:0035748~myelin sheath abaxonal region	GOTERM_FAT_CC	9	
+GO:0035749~myelin sheath adaxonal region	GOTERM_FAT_CC	6	
+GO:0035770~ribonucleoprotein granule	GOTERM_FAT_CC	269	
+GO:0035805~egg coat	GOTERM_FAT_CC	4	
+GO:0035838~growing cell tip	GOTERM_FAT_CC	3	
+GO:0035841~new growing cell tip	GOTERM_FAT_CC	2	
+GO:0035859~Seh1-associated complex	GOTERM_FAT_CC	15	
+GO:0035861~site of double-strand break	GOTERM_FAT_CC	75	
+GO:0035866~alphav-beta3 integrin-PKCalpha complex	GOTERM_FAT_CC	2	
+GO:0035867~alphav-beta3 integrin-IGF-1-IGF1R complex	GOTERM_FAT_CC	4	
+GO:0035868~alphav-beta3 integrin-HMGB1 complex	GOTERM_FAT_CC	3	
+GO:0035869~ciliary transition zone	GOTERM_FAT_CC	78	
+GO:0035976~transcription factor AP-1 complex	GOTERM_FAT_CC	5	
+GO:0035985~senescence-associated heterochromatin focus	GOTERM_FAT_CC	5	
+GO:0036019~endolysosome	GOTERM_FAT_CC	11	
+GO:0036020~endolysosome membrane	GOTERM_FAT_CC	6	
+GO:0036024~protein C inhibitor-TMPRSS7 complex	GOTERM_FAT_CC	1	
+GO:0036025~protein C inhibitor-TMPRSS11E complex	GOTERM_FAT_CC	1	
+GO:0036026~protein C inhibitor-PLAT complex	GOTERM_FAT_CC	1	
+GO:0036027~protein C inhibitor-PLAU complex	GOTERM_FAT_CC	1	
+GO:0036028~protein C inhibitor-thrombin complex	GOTERM_FAT_CC	1	
+GO:0036029~protein C inhibitor-KLK3 complex	GOTERM_FAT_CC	1	
+GO:0036030~protein C inhibitor-plasma kallikrein complex	GOTERM_FAT_CC	1	
+GO:0036038~MKS complex	GOTERM_FAT_CC	14	
+GO:0036053~glomerular endothelium fenestra	GOTERM_FAT_CC	1	
+GO:0036056~filtration diaphragm	GOTERM_FAT_CC	10	
+GO:0036057~slit diaphragm	GOTERM_FAT_CC	10	
+GO:0036064~ciliary basal body	GOTERM_FAT_CC	182	
+GO:0036117~hyaluranon cable	GOTERM_FAT_CC	2	
+GO:0036125~fatty acid beta-oxidation multienzyme complex	GOTERM_FAT_CC	2	
+GO:0036126~sperm flagellum	GOTERM_FAT_CC	178	
+GO:0036128~CatSper complex	GOTERM_FAT_CC	17	
+GO:0036156~inner dynein arm	GOTERM_FAT_CC	12	
+GO:0036157~outer dynein arm	GOTERM_FAT_CC	12	
+GO:0036186~early phagosome membrane	GOTERM_FAT_CC	2	
+GO:0036194~muscle cell projection	GOTERM_FAT_CC	3	
+GO:0036195~muscle cell projection membrane	GOTERM_FAT_CC	3	
+GO:0036284~tubulobulbar complex	GOTERM_FAT_CC	3	
+GO:0036379~myofilament	GOTERM_FAT_CC	27	
+GO:0036387~pre-replicative complex	GOTERM_FAT_CC	2	
+GO:0036396~MIS complex	GOTERM_FAT_CC	8	
+GO:0036398~TCR signalosome	GOTERM_FAT_CC	2	
+GO:0036409~histone H3-K14 acetyltransferase complex	GOTERM_FAT_CC	2	
+GO:0036449~microtubule minus-end	GOTERM_FAT_CC	7	
+GO:0036452~ESCRT complex	GOTERM_FAT_CC	26	
+GO:0036454~growth factor complex	GOTERM_FAT_CC	7	
+GO:0036457~keratohyalin granule	GOTERM_FAT_CC	4	
+GO:0036464~cytoplasmic ribonucleoprotein granule	GOTERM_FAT_CC	251	
+GO:0036477~somatodendritic compartment	GOTERM_FAT_CC	1168	
+GO:0036488~CHOP-C/EBP complex	GOTERM_FAT_CC	3	
+GO:0036501~UFD1-NPL4 complex	GOTERM_FAT_CC	2	
+GO:0036502~Derlin-1-VIMP complex	GOTERM_FAT_CC	2	
+GO:0036513~Derlin-1 retrotranslocation complex	GOTERM_FAT_CC	8	
+GO:0038037~G-protein coupled receptor dimeric complex	GOTERM_FAT_CC	7	
+GO:0038038~G-protein coupled receptor homodimeric complex	GOTERM_FAT_CC	1	
+GO:0038039~G-protein coupled receptor heterodimeric complex	GOTERM_FAT_CC	3	
+GO:0038045~large latent transforming growth factor-beta complex	GOTERM_FAT_CC	1	
+GO:0038143~ERBB3:ERBB2 complex	GOTERM_FAT_CC	2	
+GO:0038201~TOR complex	GOTERM_FAT_CC	14	
+GO:0042022~interleukin-12 receptor complex	GOTERM_FAT_CC	7	
+GO:0042101~T cell receptor complex	GOTERM_FAT_CC	20	
+GO:0042105~alpha-beta T cell receptor complex	GOTERM_FAT_CC	9	
+GO:0042175~nuclear outer membrane-endoplasmic reticulum membrane network	GOTERM_FAT_CC	1093	
+GO:0042272~nuclear RNA export factor complex	GOTERM_FAT_CC	7	
+GO:0042382~paraspeckles	GOTERM_FAT_CC	9	
+GO:0042383~sarcolemma	GOTERM_FAT_CC	179	
+GO:0042405~nuclear inclusion body	GOTERM_FAT_CC	13	
+GO:0042406~extrinsic component of endoplasmic reticulum membrane	GOTERM_FAT_CC	9	
+GO:0042470~melanosome	GOTERM_FAT_CC	106	
+GO:0042555~MCM complex	GOTERM_FAT_CC	12	
+GO:0042564~NLS-dependent protein nuclear import complex	GOTERM_FAT_CC	9	
+GO:0042565~RNA nuclear export complex	GOTERM_FAT_CC	4	
+GO:0042567~insulin-like growth factor ternary complex	GOTERM_FAT_CC	4	
+GO:0042568~insulin-like growth factor binary complex	GOTERM_FAT_CC	2	
+GO:0042571~immunoglobulin complex, circulating	GOTERM_FAT_CC	140	
+GO:0042575~DNA polymerase complex	GOTERM_FAT_CC	16	
+GO:0042579~microbody	GOTERM_FAT_CC	152	
+GO:0042581~specific granule	GOTERM_FAT_CC	15	
+GO:0042582~azurophil granule	GOTERM_FAT_CC	21	
+GO:0042583~chromaffin granule	GOTERM_FAT_CC	14	
+GO:0042584~chromaffin granule membrane	GOTERM_FAT_CC	9	
+GO:0042585~germinal vesicle	GOTERM_FAT_CC	4	
+GO:0042587~glycogen granule	GOTERM_FAT_CC	8	
+GO:0042588~zymogen granule	GOTERM_FAT_CC	27	
+GO:0042589~zymogen granule membrane	GOTERM_FAT_CC	16	
+GO:0042599~lamellar body	GOTERM_FAT_CC	16	
+GO:0042611~MHC protein complex	GOTERM_FAT_CC	40	
+GO:0042612~MHC class I protein complex	GOTERM_FAT_CC	27	
+GO:0042613~MHC class II protein complex	GOTERM_FAT_CC	14	
+GO:0042622~photoreceptor outer segment membrane	GOTERM_FAT_CC	14	
+GO:0042627~chylomicron	GOTERM_FAT_CC	13	
+GO:0042629~mast cell granule	GOTERM_FAT_CC	7	
+GO:0042641~actomyosin	GOTERM_FAT_CC	99	
+GO:0042642~actomyosin, myosin complex part	GOTERM_FAT_CC	1	
+GO:0042645~mitochondrial nucleoid	GOTERM_FAT_CC	48	
+GO:0042709~succinate-CoA ligase complex	GOTERM_FAT_CC	3	
+GO:0042719~mitochondrial intermembrane space protein transporter complex	GOTERM_FAT_CC	6	
+GO:0042720~mitochondrial inner membrane peptidase complex	GOTERM_FAT_CC	2	
+GO:0042721~mitochondrial inner membrane protein insertion complex	GOTERM_FAT_CC	7	
+GO:0042734~presynaptic membrane	GOTERM_FAT_CC	215	
+GO:0042765~GPI-anchor transamidase complex	GOTERM_FAT_CC	5	
+GO:0042788~polysomal ribosome	GOTERM_FAT_CC	35	
+GO:0042824~MHC class I peptide loading complex	GOTERM_FAT_CC	17	
+GO:0042825~TAP complex	GOTERM_FAT_CC	3	
+GO:0042827~platelet dense granule	GOTERM_FAT_CC	4	
+GO:0043005~neuron projection	GOTERM_FAT_CC	1587	
+GO:0043020~NADPH oxidase complex	GOTERM_FAT_CC	12	
+GO:0043025~neuronal cell body	GOTERM_FAT_CC	793	
+GO:0043034~costamere	GOTERM_FAT_CC	19	
+GO:0043073~germ cell nucleus	GOTERM_FAT_CC	107	
+GO:0043083~synaptic cleft	GOTERM_FAT_CC	23	
+GO:0043159~acrosomal matrix	GOTERM_FAT_CC	5	
+GO:0043160~acrosomal lumen	GOTERM_FAT_CC	3	
+GO:0043186~P granule	GOTERM_FAT_CC	22	
+GO:0043189~H4/H2A histone acetyltransferase complex	GOTERM_FAT_CC	27	
+GO:0043190~ATP-binding cassette (ABC) transporter complex	GOTERM_FAT_CC	2	
+GO:0043194~axon initial segment	GOTERM_FAT_CC	27	
+GO:0043195~terminal bouton	GOTERM_FAT_CC	93	
+GO:0043196~varicosity	GOTERM_FAT_CC	15	
+GO:0043197~dendritic spine	GOTERM_FAT_CC	226	
+GO:0043198~dendritic shaft	GOTERM_FAT_CC	71	
+GO:0043202~lysosomal lumen	GOTERM_FAT_CC	22	
+GO:0043203~axon hillock	GOTERM_FAT_CC	9	
+GO:0043204~perikaryon	GOTERM_FAT_CC	219	
+GO:0043209~myelin sheath	GOTERM_FAT_CC	215	
+GO:0043218~compact myelin	GOTERM_FAT_CC	20	
+GO:0043219~lateral loop	GOTERM_FAT_CC	7	
+GO:0043220~Schmidt-Lanterman incisure	GOTERM_FAT_CC	15	
+GO:0043230~extracellular organelle	GOTERM_FAT_CC	131	
+GO:0043235~receptor complex	GOTERM_FAT_CC	439	
+GO:0043240~Fanconi anaemia nuclear complex	GOTERM_FAT_CC	14	
+GO:0043256~laminin complex	GOTERM_FAT_CC	12	
+GO:0043257~laminin-8 complex	GOTERM_FAT_CC	1	
+GO:0043259~laminin-10 complex	GOTERM_FAT_CC	3	
+GO:0043265~ectoplasm	GOTERM_FAT_CC	1	
+GO:0043291~RAVE complex	GOTERM_FAT_CC	3	
+GO:0043292~contractile fiber	GOTERM_FAT_CC	257	
+GO:0043293~apoptosome	GOTERM_FAT_CC	4	
+GO:0043296~apical junction complex	GOTERM_FAT_CC	173	
+GO:0043505~CENP-A containing nucleosome	GOTERM_FAT_CC	11	
+GO:0043509~activin A complex	GOTERM_FAT_CC	1	
+GO:0043511~inhibin complex	GOTERM_FAT_CC	3	
+GO:0043512~inhibin A complex	GOTERM_FAT_CC	2	
+GO:0043513~inhibin B complex	GOTERM_FAT_CC	2	
+GO:0043514~interleukin-12 complex	GOTERM_FAT_CC	2	
+GO:0043527~tRNA methyltransferase complex	GOTERM_FAT_CC	6	
+GO:0043529~GET complex	GOTERM_FAT_CC	3	
+GO:0043540~6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex	GOTERM_FAT_CC	1	
+GO:0043541~UDP-N-acetylglucosamine transferase complex	GOTERM_FAT_CC	4	
+GO:0043564~Ku70:Ku80 complex	GOTERM_FAT_CC	3	
+GO:0043596~nuclear replication fork	GOTERM_FAT_CC	42	
+GO:0043601~nuclear replisome	GOTERM_FAT_CC	26	
+GO:0043614~multi-eIF complex	GOTERM_FAT_CC	2	
+GO:0043625~delta DNA polymerase complex	GOTERM_FAT_CC	4	
+GO:0043626~PCNA complex	GOTERM_FAT_CC	1	
+GO:0043656~intracellular region of host	GOTERM_FAT_CC	10	
+GO:0043657~host cell	GOTERM_FAT_CC	13	
+GO:0043679~axon terminus	GOTERM_FAT_CC	201	
+GO:0044194~cytolytic granule	GOTERM_FAT_CC	12	
+GO:0044207~translation initiation ternary complex	GOTERM_FAT_CC	1	
+GO:0044214~spanning component of plasma membrane	GOTERM_FAT_CC	13	
+GO:0044215~other organism	GOTERM_FAT_CC	14	
+GO:0044216~other organism cell	GOTERM_FAT_CC	14	
+GO:0044217~other organism part	GOTERM_FAT_CC	14	
+GO:0044218~other organism cell membrane	GOTERM_FAT_CC	1	
+GO:0044224~juxtaparanode region of axon	GOTERM_FAT_CC	10	
+GO:0044225~apical pole of neuron	GOTERM_FAT_CC	1	
+GO:0044228~host cell surface	GOTERM_FAT_CC	1	
+GO:0044232~organelle membrane contact site	GOTERM_FAT_CC	31	
+GO:0044233~ER-mitochondrion membrane contact site	GOTERM_FAT_CC	20	
+GO:0044279~other organism membrane	GOTERM_FAT_CC	1	
+GO:0044280~subplasmalemmal coating	GOTERM_FAT_CC	1	
+GO:0044284~mitochondrial crista junction	GOTERM_FAT_CC	1	
+GO:0044289~contact site	GOTERM_FAT_CC	1	
+GO:0044291~cell-cell contact zone	GOTERM_FAT_CC	90	
+GO:0044292~dendrite terminus	GOTERM_FAT_CC	20	
+GO:0044294~dendritic growth cone	GOTERM_FAT_CC	12	
+GO:0044295~axonal growth cone	GOTERM_FAT_CC	46	
+GO:0044297~cell body	GOTERM_FAT_CC	885	
+GO:0044298~cell body membrane	GOTERM_FAT_CC	41	
+GO:0044299~C-fiber	GOTERM_FAT_CC	4	
+GO:0044300~cerebellar mossy fiber	GOTERM_FAT_CC	9	
+GO:0044301~climbing fiber	GOTERM_FAT_CC	2	
+GO:0044302~dentate gyrus mossy fiber	GOTERM_FAT_CC	9	
+GO:0044303~axon collateral	GOTERM_FAT_CC	1	
+GO:0044304~main axon	GOTERM_FAT_CC	85	
+GO:0044305~calyx of Held	GOTERM_FAT_CC	29	
+GO:0044306~neuron projection terminus	GOTERM_FAT_CC	224	
+GO:0044307~dendritic branch	GOTERM_FAT_CC	6	
+GO:0044308~axonal spine	GOTERM_FAT_CC	4	
+GO:0044309~neuron spine	GOTERM_FAT_CC	232	
+GO:0044316~cone cell pedicle	GOTERM_FAT_CC	5	
+GO:0044317~rod spherule	GOTERM_FAT_CC	3	
+GO:0044322~endoplasmic reticulum quality control compartment	GOTERM_FAT_CC	15	
+GO:0044326~dendritic spine neck	GOTERM_FAT_CC	9	
+GO:0044327~dendritic spine head	GOTERM_FAT_CC	18	
+GO:0044352~pinosome	GOTERM_FAT_CC	8	
+GO:0044354~macropinosome	GOTERM_FAT_CC	8	
+GO:0044391~ribosomal subunit	GOTERM_FAT_CC	214	
+GO:0044393~microspike	GOTERM_FAT_CC	4	
+GO:0044420~extracellular matrix component	GOTERM_FAT_CC	158	
+GO:0044421~extracellular region part	GOTERM_FAT_CC	2381	
+GO:0044427~chromosomal part	GOTERM_FAT_CC	1186	
+GO:0044429~mitochondrial part	GOTERM_FAT_CC	1034	
+GO:0044431~Golgi apparatus part	GOTERM_FAT_CC	878	
+GO:0044432~endoplasmic reticulum part	GOTERM_FAT_CC	1197	
+GO:0044433~cytoplasmic vesicle part	GOTERM_FAT_CC	951	
+GO:0044437~vacuolar part	GOTERM_FAT_CC	359	
+GO:0044438~microbody part	GOTERM_FAT_CC	83	
+GO:0044439~peroxisomal part	GOTERM_FAT_CC	83	
+GO:0044440~endosomal part	GOTERM_FAT_CC	490	
+GO:0044441~ciliary part	GOTERM_FAT_CC	564	
+GO:0044445~cytosolic part	GOTERM_FAT_CC	306	
+GO:0044447~axoneme part	GOTERM_FAT_CC	51	
+GO:0044448~cell cortex part	GOTERM_FAT_CC	202	
+GO:0044449~contractile fiber part	GOTERM_FAT_CC	237	
+GO:0044450~microtubule organizing center part	GOTERM_FAT_CC	277	
+GO:0044451~nucleoplasm part	GOTERM_FAT_CC	1230	
+GO:0044452~nucleolar part	GOTERM_FAT_CC	207	
+GO:0044453~nuclear membrane part	GOTERM_FAT_CC	15	
+GO:0044454~nuclear chromosome part	GOTERM_FAT_CC	278	
+GO:0044455~mitochondrial membrane part	GOTERM_FAT_CC	265	
+GO:0044456~synapse part	GOTERM_FAT_CC	1213	
+GO:0044530~supraspliceosomal complex	GOTERM_FAT_CC	4	
+GO:0044545~NSL complex	GOTERM_FAT_CC	11	
+GO:0044599~AP-5 adaptor complex	GOTERM_FAT_CC	4	
+GO:0044609~DBIRD complex	GOTERM_FAT_CC	2	
+GO:0044611~nuclear pore inner ring	GOTERM_FAT_CC	4	
+GO:0044613~nuclear pore central transport channel	GOTERM_FAT_CC	7	
+GO:0044614~nuclear pore cytoplasmic filaments	GOTERM_FAT_CC	3	
+GO:0044615~nuclear pore nuclear basket	GOTERM_FAT_CC	12	
+GO:0044665~MLL1/2 complex	GOTERM_FAT_CC	32	
+GO:0044666~MLL3/4 complex	GOTERM_FAT_CC	15	
+GO:0044753~amphisome	GOTERM_FAT_CC	2	
+GO:0044754~autolysosome	GOTERM_FAT_CC	14	
+GO:0044796~DNA polymerase processivity factor complex	GOTERM_FAT_CC	1	
+GO:0044798~nuclear transcription factor complex	GOTERM_FAT_CC	251	
+GO:0044815~DNA packaging complex	GOTERM_FAT_CC	153	
+GO:0044853~plasma membrane raft	GOTERM_FAT_CC	145	
+GO:0045009~chitosome	GOTERM_FAT_CC	18	
+GO:0045025~mitochondrial degradosome	GOTERM_FAT_CC	2	
+GO:0045092~interleukin-18 receptor complex	GOTERM_FAT_CC	2	
+GO:0045095~keratin filament	GOTERM_FAT_CC	121	
+GO:0045098~type III intermediate filament	GOTERM_FAT_CC	7	
+GO:0045111~intermediate filament cytoskeleton	GOTERM_FAT_CC	258	
+GO:0045120~pronucleus	GOTERM_FAT_CC	24	
+GO:0045121~membrane raft	GOTERM_FAT_CC	437	
+GO:0045171~intercellular bridge	GOTERM_FAT_CC	100	
+GO:0045177~apical part of cell	GOTERM_FAT_CC	537	
+GO:0045178~basal part of cell	GOTERM_FAT_CC	89	
+GO:0045179~apical cortex	GOTERM_FAT_CC	13	
+GO:0045180~basal cortex	GOTERM_FAT_CC	7	
+GO:0045202~synapse	GOTERM_FAT_CC	1604	
+GO:0045211~postsynaptic membrane	GOTERM_FAT_CC	334	
+GO:0045239~tricarboxylic acid cycle enzyme complex	GOTERM_FAT_CC	17	
+GO:0045240~dihydrolipoyl dehydrogenase complex	GOTERM_FAT_CC	10	
+GO:0045242~isocitrate dehydrogenase complex (NAD+)	GOTERM_FAT_CC	3	
+GO:0045244~succinate-CoA ligase complex (GDP-forming)	GOTERM_FAT_CC	2	
+GO:0045251~electron transfer flavoprotein complex	GOTERM_FAT_CC	3	
+GO:0045252~oxoglutarate dehydrogenase complex	GOTERM_FAT_CC	6	
+GO:0045254~pyruvate dehydrogenase complex	GOTERM_FAT_CC	8	
+GO:0045257~succinate dehydrogenase complex (ubiquinone)	GOTERM_FAT_CC	4	
+GO:0045259~proton-transporting ATP synthase complex	GOTERM_FAT_CC	22	
+GO:0045261~proton-transporting ATP synthase complex, catalytic core F(1)	GOTERM_FAT_CC	6	
+GO:0045263~proton-transporting ATP synthase complex, coupling factor F(o)	GOTERM_FAT_CC	15	
+GO:0045265~proton-transporting ATP synthase, stator stalk	GOTERM_FAT_CC	2	
+GO:0045267~proton-transporting ATP synthase, catalytic core	GOTERM_FAT_CC	1	
+GO:0045271~respiratory chain complex I	GOTERM_FAT_CC	51	
+GO:0045273~respiratory chain complex II	GOTERM_FAT_CC	4	
+GO:0045275~respiratory chain complex III	GOTERM_FAT_CC	12	
+GO:0045277~respiratory chain complex IV	GOTERM_FAT_CC	27	
+GO:0045281~succinate dehydrogenase complex	GOTERM_FAT_CC	4	
+GO:0045283~fumarate reductase complex	GOTERM_FAT_CC	4	
+GO:0045293~mRNA editing complex	GOTERM_FAT_CC	12	
+GO:0045298~tubulin complex	GOTERM_FAT_CC	3	
+GO:0045323~interleukin-1 receptor complex	GOTERM_FAT_CC	1	
+GO:0045334~clathrin-coated endocytic vesicle	GOTERM_FAT_CC	25	
+GO:0045335~phagocytic vesicle	GOTERM_FAT_CC	123	
+GO:0045495~pole plasm	GOTERM_FAT_CC	23	
+GO:0046540~U4/U6 x U5 tri-snRNP complex	GOTERM_FAT_CC	31	
+GO:0046581~intercellular canaliculus	GOTERM_FAT_CC	10	
+GO:0046611~lysosomal proton-transporting V-type ATPase complex	GOTERM_FAT_CC	1	
+GO:0046658~anchored component of plasma membrane	GOTERM_FAT_CC	83	
+GO:0046691~intracellular canaliculus	GOTERM_FAT_CC	5	
+GO:0046695~SLIK (SAGA-like) complex	GOTERM_FAT_CC	3	
+GO:0046696~lipopolysaccharide receptor complex	GOTERM_FAT_CC	6	
+GO:0046930~pore complex	GOTERM_FAT_CC	27	
+GO:0048179~activin receptor complex	GOTERM_FAT_CC	7	
+GO:0048180~activin complex	GOTERM_FAT_CC	1	
+GO:0048188~Set1C/COMPASS complex	GOTERM_FAT_CC	16	
+GO:0048237~rough endoplasmic reticulum lumen	GOTERM_FAT_CC	7	
+GO:0048269~methionine adenosyltransferase complex	GOTERM_FAT_CC	3	
+GO:0048471~perinuclear region of cytoplasm	GOTERM_FAT_CC	840	
+GO:0048475~coated membrane	GOTERM_FAT_CC	99	
+GO:0048476~Holliday junction resolvase complex	GOTERM_FAT_CC	5	
+GO:0048500~signal recognition particle	GOTERM_FAT_CC	8	
+GO:0048770~pigment granule	GOTERM_FAT_CC	106	
+GO:0048786~presynaptic active zone	GOTERM_FAT_CC	102	
+GO:0048787~presynaptic active zone membrane	GOTERM_FAT_CC	49	
+GO:0048788~cytoskeleton of presynaptic active zone	GOTERM_FAT_CC	7	
+GO:0051233~spindle midzone	GOTERM_FAT_CC	38	
+GO:0051286~cell tip	GOTERM_FAT_CC	10	
+GO:0055028~cortical microtubule	GOTERM_FAT_CC	3	
+GO:0055029~nuclear DNA-directed RNA polymerase complex	GOTERM_FAT_CC	145	
+GO:0055037~recycling endosome	GOTERM_FAT_CC	195	
+GO:0055038~recycling endosome membrane	GOTERM_FAT_CC	83	
+GO:0055087~Ski complex	GOTERM_FAT_CC	3	
+GO:0055120~striated muscle dense body	GOTERM_FAT_CC	1	
+GO:0060053~neurofilament cytoskeleton	GOTERM_FAT_CC	2	
+GO:0060076~excitatory synapse	GOTERM_FAT_CC	81	
+GO:0060077~inhibitory synapse	GOTERM_FAT_CC	28	
+GO:0060091~kinocilium	GOTERM_FAT_CC	13	
+GO:0060170~ciliary membrane	GOTERM_FAT_CC	74	
+GO:0060171~stereocilium membrane	GOTERM_FAT_CC	6	
+GO:0060187~cell pole	GOTERM_FAT_CC	3	
+GO:0060198~clathrin-sculpted vesicle	GOTERM_FAT_CC	9	
+GO:0060199~clathrin-sculpted glutamate transport vesicle	GOTERM_FAT_CC	7	
+GO:0060203~clathrin-sculpted glutamate transport vesicle membrane	GOTERM_FAT_CC	7	
+GO:0060205~cytoplasmic vesicle lumen	GOTERM_FAT_CC	23	
+GO:0060293~germ plasm	GOTERM_FAT_CC	22	
+GO:0060342~photoreceptor inner segment membrane	GOTERM_FAT_CC	1	
+GO:0060417~yolk	GOTERM_FAT_CC	1	
+GO:0060473~cortical granule	GOTERM_FAT_CC	6	
+GO:0060987~lipid tube	GOTERM_FAT_CC	1	
+GO:0061200~clathrin-sculpted gamma-aminobutyric acid transport vesicle	GOTERM_FAT_CC	2	
+GO:0061202~clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	GOTERM_FAT_CC	2	
+GO:0061474~phagolysosome membrane	GOTERM_FAT_CC	2	
+GO:0061574~ASAP complex	GOTERM_FAT_CC	5	
+GO:0061617~MICOS complex	GOTERM_FAT_CC	9	
+GO:0061638~CENP-A containing chromatin	GOTERM_FAT_CC	11	
+GO:0061673~mitotic spindle astral microtubule	GOTERM_FAT_CC	8	
+GO:0061689~tricellular tight junction	GOTERM_FAT_CC	4	
+GO:0061695~transferase complex, transferring phosphorus-containing groups	GOTERM_FAT_CC	312	
+GO:0061696~pituitary gonadotropin complex	GOTERM_FAT_CC	2	
+GO:0061700~GATOR2 complex	GOTERM_FAT_CC	10	
+GO:0061702~inflammasome complex	GOTERM_FAT_CC	22	
+GO:0061742~chaperone-mediated autophagy translocation complex	GOTERM_FAT_CC	1	
+GO:0061773~eNoSc complex	GOTERM_FAT_CC	3	
+GO:0061779~Tapasin-ERp57 complex	GOTERM_FAT_CC	2	
+GO:0061793~chromatin lock complex	GOTERM_FAT_CC	3	
+GO:0061825~podosome core	GOTERM_FAT_CC	3	
+GO:0061826~podosome ring	GOTERM_FAT_CC	1	
+GO:0061827~sperm head	GOTERM_FAT_CC	35	
+GO:0061828~apical tubulobulbar complex	GOTERM_FAT_CC	2	
+GO:0061829~basal tubulobulbar complex	GOTERM_FAT_CC	1	
+GO:0061830~concave side of sperm head	GOTERM_FAT_CC	3	
+GO:0061831~apical ectoplasmic specialization	GOTERM_FAT_CC	2	
+GO:0061832~basal ectoplasmic specialization	GOTERM_FAT_CC	2	
+GO:0061834~actin filament branch point	GOTERM_FAT_CC	1	
+GO:0061835~ventral surface of cell	GOTERM_FAT_CC	1	
+GO:0061845~neuron projection branch point	GOTERM_FAT_CC	1	
+GO:0061846~dendritic spine cytoplasm	GOTERM_FAT_CC	1	
+GO:0061850~growth cone leading edge	GOTERM_FAT_CC	1	
+GO:0061851~leading edge of lamellipodium	GOTERM_FAT_CC	3	
+GO:0065010~extracellular membrane-bounded organelle	GOTERM_FAT_CC	12	
+GO:0070021~transforming growth factor beta1-type II receptor-type I receptor complex	GOTERM_FAT_CC	6	
+GO:0070032~synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex	GOTERM_FAT_CC	4	
+GO:0070033~synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex	GOTERM_FAT_CC	4	
+GO:0070044~synaptobrevin 2-SNAP-25-syntaxin-1a complex	GOTERM_FAT_CC	5	
+GO:0070062~extracellular exosome	GOTERM_FAT_CC	107	
+GO:0070069~cytochrome complex	GOTERM_FAT_CC	39	
+GO:0070110~ciliary neurotrophic factor receptor complex	GOTERM_FAT_CC	3	
+GO:0070160~occluding junction	GOTERM_FAT_CC	157	
+GO:0070161~anchoring junction	GOTERM_FAT_CC	366	
+GO:0070176~DRM complex	GOTERM_FAT_CC	1	
+GO:0070187~shelterin complex	GOTERM_FAT_CC	8	
+GO:0070195~growth hormone receptor complex	GOTERM_FAT_CC	2	
+GO:0070209~ASTRA complex	GOTERM_FAT_CC	3	
+GO:0070210~Rpd3L-Expanded complex	GOTERM_FAT_CC	2	
+GO:0070274~RES complex	GOTERM_FAT_CC	1	
+GO:0070288~ferritin complex	GOTERM_FAT_CC	2	
+GO:0070310~ATR-ATRIP complex	GOTERM_FAT_CC	2	
+GO:0070319~Golgi to plasma membrane transport vesicle	GOTERM_FAT_CC	2	
+GO:0070369~beta-catenin-TCF7L2 complex	GOTERM_FAT_CC	3	
+GO:0070381~endosome to plasma membrane transport vesicle	GOTERM_FAT_CC	3	
+GO:0070382~exocytic vesicle	GOTERM_FAT_CC	281	
+GO:0070390~transcription export complex 2	GOTERM_FAT_CC	5	
+GO:0070418~DNA-dependent protein kinase complex	GOTERM_FAT_CC	5	
+GO:0070419~nonhomologous end joining complex	GOTERM_FAT_CC	8	
+GO:0070421~DNA ligase III-XRCC1 complex	GOTERM_FAT_CC	1	
+GO:0070435~Shc-EGFR complex	GOTERM_FAT_CC	1	
+GO:0070436~Grb2-EGFR complex	GOTERM_FAT_CC	2	
+GO:0070442~integrin alphaIIb-beta3 complex	GOTERM_FAT_CC	1	
+GO:0070443~Mad-Max complex	GOTERM_FAT_CC	2	
+GO:0070449~elongin complex	GOTERM_FAT_CC	6	
+GO:0070461~SAGA-type complex	GOTERM_FAT_CC	28	
+GO:0070469~respiratory chain	GOTERM_FAT_CC	97	
+GO:0070514~SRF-myogenin-E12 complex	GOTERM_FAT_CC	1	
+GO:0070516~CAK-ERCC2 complex	GOTERM_FAT_CC	4	
+GO:0070522~ERCC4-ERCC1 complex	GOTERM_FAT_CC	5	
+GO:0070531~BRCA1-A complex	GOTERM_FAT_CC	8	
+GO:0070532~BRCA1-B complex	GOTERM_FAT_CC	4	
+GO:0070533~BRCA1-C complex	GOTERM_FAT_CC	6	
+GO:0070545~PeBoW complex	GOTERM_FAT_CC	3	
+GO:0070552~BRISC complex	GOTERM_FAT_CC	6	
+GO:0070557~PCNA-p21 complex	GOTERM_FAT_CC	2	
+GO:0070578~RISC-loading complex	GOTERM_FAT_CC	11	
+GO:0070603~SWI/SNF superfamily-type complex	GOTERM_FAT_CC	87	
+GO:0070618~Grb2-Sos complex	GOTERM_FAT_CC	1	
+GO:0070652~HAUS complex	GOTERM_FAT_CC	8	
+GO:0070685~macropinocytic cup	GOTERM_FAT_CC	1	
+GO:0070691~P-TEFb complex	GOTERM_FAT_CC	2	
+GO:0070695~FHF complex	GOTERM_FAT_CC	5	
+GO:0070701~mucus layer	GOTERM_FAT_CC	3	
+GO:0070702~inner mucus layer	GOTERM_FAT_CC	1	
+GO:0070703~outer mucus layer	GOTERM_FAT_CC	1	
+GO:0070721~ISGF3 complex	GOTERM_FAT_CC	3	
+GO:0070724~BMP receptor complex	GOTERM_FAT_CC	4	
+GO:0070743~interleukin-23 complex	GOTERM_FAT_CC	2	
+GO:0070761~pre-snoRNP complex	GOTERM_FAT_CC	7	
+GO:0070762~nuclear pore transmembrane ring	GOTERM_FAT_CC	1	
+GO:0070765~gamma-secretase complex	GOTERM_FAT_CC	8	
+GO:0070772~PAS complex	GOTERM_FAT_CC	1	
+GO:0070775~H3 histone acetyltransferase complex	GOTERM_FAT_CC	10	
+GO:0070776~MOZ/MORF histone acetyltransferase complex	GOTERM_FAT_CC	9	
+GO:0070820~tertiary granule	GOTERM_FAT_CC	8	
+GO:0070821~tertiary granule membrane	GOTERM_FAT_CC	4	
+GO:0070822~Sin3-type complex	GOTERM_FAT_CC	22	
+GO:0070826~paraferritin complex	GOTERM_FAT_CC	1	
+GO:0070847~core mediator complex	GOTERM_FAT_CC	26	
+GO:0070852~cell body fiber	GOTERM_FAT_CC	10	
+GO:0070860~RNA polymerase I core factor complex	GOTERM_FAT_CC	1	
+GO:0070876~SOSS complex	GOTERM_FAT_CC	4	
+GO:0070877~microprocessor complex	GOTERM_FAT_CC	3	
+GO:0070937~CRD-mediated mRNA stability complex	GOTERM_FAT_CC	6	
+GO:0070938~contractile ring	GOTERM_FAT_CC	13	
+GO:0070939~Dsl1/NZR complex	GOTERM_FAT_CC	3	
+GO:0070971~endoplasmic reticulum exit site	GOTERM_FAT_CC	36	
+GO:0070985~TFIIK complex	GOTERM_FAT_CC	3	
+GO:0070992~translation initiation complex	GOTERM_FAT_CC	1	
+GO:0070993~translation preinitiation complex	GOTERM_FAT_CC	18	
+GO:0071001~U4/U6 snRNP	GOTERM_FAT_CC	3	
+GO:0071004~U2-type prespliceosome	GOTERM_FAT_CC	16	
+GO:0071005~U2-type precatalytic spliceosome	GOTERM_FAT_CC	52	
+GO:0071006~U2-type catalytic step 1 spliceosome	GOTERM_FAT_CC	15	
+GO:0071007~U2-type catalytic step 2 spliceosome	GOTERM_FAT_CC	31	
+GO:0071008~U2-type post-mRNA release spliceosomal complex	GOTERM_FAT_CC	3	
+GO:0071010~prespliceosome	GOTERM_FAT_CC	16	
+GO:0071011~precatalytic spliceosome	GOTERM_FAT_CC	54	
+GO:0071012~catalytic step 1 spliceosome	GOTERM_FAT_CC	15	
+GO:0071013~catalytic step 2 spliceosome	GOTERM_FAT_CC	101	
+GO:0071014~post-mRNA release spliceosomal complex	GOTERM_FAT_CC	14	
+GO:0071020~post-spliceosomal complex	GOTERM_FAT_CC	3	
+GO:0071021~U2-type post-spliceosomal complex	GOTERM_FAT_CC	1	
+GO:0071065~alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex	GOTERM_FAT_CC	1	
+GO:0071133~alpha9-beta1 integrin-ADAM8 complex	GOTERM_FAT_CC	3	
+GO:0071141~SMAD protein complex	GOTERM_FAT_CC	10	
+GO:0071142~SMAD2 protein complex	GOTERM_FAT_CC	2	
+GO:0071144~SMAD2-SMAD3 protein complex	GOTERM_FAT_CC	8	
+GO:0071159~NF-kappaB complex	GOTERM_FAT_CC	4	
+GO:0071162~CMG complex	GOTERM_FAT_CC	11	
+GO:0071203~WASH complex	GOTERM_FAT_CC	10	
+GO:0071204~histone pre-mRNA 3'end processing complex	GOTERM_FAT_CC	6	
+GO:0071254~cytoplasmic U snRNP body	GOTERM_FAT_CC	1	
+GO:0071256~translocon complex	GOTERM_FAT_CC	7	
+GO:0071261~Ssh1 translocon complex	GOTERM_FAT_CC	1	
+GO:0071339~MLL1 complex	GOTERM_FAT_CC	31	
+GO:0071439~clathrin complex	GOTERM_FAT_CC	8	
+GO:0071458~integral component of cytoplasmic side of endoplasmic reticulum membrane	GOTERM_FAT_CC	6	
+GO:0071513~phosphopantothenoylcysteine decarboxylase complex	GOTERM_FAT_CC	1	
+GO:0071540~eukaryotic translation initiation factor 3 complex, eIF3e	GOTERM_FAT_CC	2	
+GO:0071541~eukaryotic translation initiation factor 3 complex, eIF3m	GOTERM_FAT_CC	8	
+GO:0071546~pi-body	GOTERM_FAT_CC	7	
+GO:0071547~piP-body	GOTERM_FAT_CC	5	
+GO:0071556~integral component of lumenal side of endoplasmic reticulum membrane	GOTERM_FAT_CC	16	
+GO:0071561~nucleus-vacuole junction	GOTERM_FAT_CC	1	
+GO:0071564~npBAF complex	GOTERM_FAT_CC	14	
+GO:0071565~nBAF complex	GOTERM_FAT_CC	16	
+GO:0071575~integral component of external side of plasma membrane	GOTERM_FAT_CC	2	
+GO:0071595~Nem1-Spo7 phosphatase complex	GOTERM_FAT_CC	2	
+GO:0071598~neuronal ribonucleoprotein granule	GOTERM_FAT_CC	8	
+GO:0071664~catenin-TCF7L2 complex	GOTERM_FAT_CC	4	
+GO:0071665~gamma-catenin-TCF7L2 complex	GOTERM_FAT_CC	1	
+GO:0071682~endocytic vesicle lumen	GOTERM_FAT_CC	3	
+GO:0071735~IgG immunoglobulin complex	GOTERM_FAT_CC	6	
+GO:0071745~IgA immunoglobulin complex	GOTERM_FAT_CC	3	
+GO:0071746~IgA immunoglobulin complex, circulating	GOTERM_FAT_CC	3	
+GO:0071748~monomeric IgA immunoglobulin complex	GOTERM_FAT_CC	2	
+GO:0071749~polymeric IgA immunoglobulin complex	GOTERM_FAT_CC	3	
+GO:0071750~dimeric IgA immunoglobulin complex	GOTERM_FAT_CC	1	
+GO:0071751~secretory IgA immunoglobulin complex	GOTERM_FAT_CC	3	
+GO:0071752~secretory dimeric IgA immunoglobulin complex	GOTERM_FAT_CC	1	
+GO:0071753~IgM immunoglobulin complex	GOTERM_FAT_CC	3	
+GO:0071754~IgM immunoglobulin complex, circulating	GOTERM_FAT_CC	3	
+GO:0071756~pentameric IgM immunoglobulin complex	GOTERM_FAT_CC	3	
+GO:0071757~hexameric IgM immunoglobulin complex	GOTERM_FAT_CC	1	
+GO:0071782~endoplasmic reticulum tubular network	GOTERM_FAT_CC	25	
+GO:0071797~LUBAC complex	GOTERM_FAT_CC	4	
+GO:0071817~MMXD complex	GOTERM_FAT_CC	5	
+GO:0071818~BAT3 complex	GOTERM_FAT_CC	4	
+GO:0071819~DUBm complex	GOTERM_FAT_CC	2	
+GO:0071821~FANCM-MHF complex	GOTERM_FAT_CC	4	
+GO:0071914~prominosome	GOTERM_FAT_CC	2	
+GO:0071920~cleavage body	GOTERM_FAT_CC	2	
+GO:0071942~XPC complex	GOTERM_FAT_CC	3	
+GO:0071943~Myc-Max complex	GOTERM_FAT_CC	2	
+GO:0071953~elastic fiber	GOTERM_FAT_CC	5	
+GO:0071986~Ragulator complex	GOTERM_FAT_CC	10	
+GO:0072357~PTW/PP1 phosphatase complex	GOTERM_FAT_CC	7	
+GO:0072379~ER membrane insertion complex	GOTERM_FAT_CC	6	
+GO:0072380~TRC complex	GOTERM_FAT_CC	2	
+GO:0072487~MSL complex	GOTERM_FAT_CC	5	
+GO:0072534~perineuronal net	GOTERM_FAT_CC	6	
+GO:0072536~interleukin-23 receptor complex	GOTERM_FAT_CC	7	
+GO:0072546~ER membrane protein complex	GOTERM_FAT_CC	20	
+GO:0072557~IPAF inflammasome complex	GOTERM_FAT_CC	9	
+GO:0072558~NLRP1 inflammasome complex	GOTERM_FAT_CC	5	
+GO:0072559~NLRP3 inflammasome complex	GOTERM_FAT_CC	8	
+GO:0072562~blood microparticle	GOTERM_FAT_CC	11	
+GO:0072563~endothelial microparticle	GOTERM_FAT_CC	2	
+GO:0072588~box H/ACA RNP complex	GOTERM_FAT_CC	5	
+GO:0072669~tRNA-splicing ligase complex	GOTERM_FAT_CC	8	
+GO:0072686~mitotic spindle	GOTERM_FAT_CC	185	
+GO:0072687~meiotic spindle	GOTERM_FAT_CC	16	
+GO:0080008~Cul4-RING E3 ubiquitin ligase complex	GOTERM_FAT_CC	34	
+GO:0089701~U2AF	GOTERM_FAT_CC	7	
+GO:0089717~spanning component of membrane	GOTERM_FAT_CC	13	
+GO:0090443~FAR/SIN/STRIPAK complex	GOTERM_FAT_CC	4	
+GO:0090498~extrinsic component of Golgi membrane	GOTERM_FAT_CC	4	
+GO:0090533~cation-transporting ATPase complex	GOTERM_FAT_CC	15	
+GO:0090534~calcium ion-transporting ATPase complex	GOTERM_FAT_CC	2	
+GO:0090535~WICH complex	GOTERM_FAT_CC	2	
+GO:0090536~NoRC complex	GOTERM_FAT_CC	2	
+GO:0090537~CERF complex	GOTERM_FAT_CC	2	
+GO:0090543~Flemming body	GOTERM_FAT_CC	34	
+GO:0090544~BAF-type complex	GOTERM_FAT_CC	30	
+GO:0090545~CHD-type complex	GOTERM_FAT_CC	17	
+GO:0090568~nuclear transcriptional repressor complex	GOTERM_FAT_CC	45	
+GO:0090571~RNA polymerase II transcription repressor complex	GOTERM_FAT_CC	14	
+GO:0090575~RNA polymerase II transcription factor complex	GOTERM_FAT_CC	229	
+GO:0090576~RNA polymerase III transcription factor complex	GOTERM_FAT_CC	10	
+GO:0090619~meiotic spindle pole	GOTERM_FAT_CC	2	
+GO:0090636~outer dense plaque of desmosome	GOTERM_FAT_CC	1	
+GO:0090637~inner dense plaque of desmosome	GOTERM_FAT_CC	1	
+GO:0090651~apical cytoplasm	GOTERM_FAT_CC	4	
+GO:0090658~cone matrix sheath	GOTERM_FAT_CC	1	
+GO:0090661~box H/ACA telomerase RNP complex	GOTERM_FAT_CC	4	
+GO:0090665~glycoprotein complex	GOTERM_FAT_CC	25	
+GO:0090694~Scc2-Scc4 cohesin loading complex	GOTERM_FAT_CC	2	
+GO:0090723~growth cone part	GOTERM_FAT_CC	22	
+GO:0090724~central region of growth cone	GOTERM_FAT_CC	6	
+GO:0090725~peripheral region of growth cone	GOTERM_FAT_CC	3	
+GO:0090730~Las1 complex	GOTERM_FAT_CC	1	
+GO:0090732~cofilin-actin rod	GOTERM_FAT_CC	1	
+GO:0090733~tenascin complex	GOTERM_FAT_CC	3	
+GO:0090734~site of DNA damage	GOTERM_FAT_CC	100	
+GO:0097014~ciliary plasm	GOTERM_FAT_CC	151	
+GO:0097025~MPP7-DLG1-LIN7 complex	GOTERM_FAT_CC	5	
+GO:0097038~perinuclear endoplasmic reticulum	GOTERM_FAT_CC	27	
+GO:0097057~TRAF2-GSTP1 complex	GOTERM_FAT_CC	3	
+GO:0097058~CRLF-CLCF1 complex	GOTERM_FAT_CC	2	
+GO:0097059~CNTFR-CLCF1 complex	GOTERM_FAT_CC	2	
+GO:0097060~synaptic membrane	GOTERM_FAT_CC	481	
+GO:0097123~cyclin A1-CDK2 complex	GOTERM_FAT_CC	2	
+GO:0097124~cyclin A2-CDK2 complex	GOTERM_FAT_CC	4	
+GO:0097125~cyclin B1-CDK1 complex	GOTERM_FAT_CC	2	
+GO:0097128~cyclin D1-CDK4 complex	GOTERM_FAT_CC	2	
+GO:0097129~cyclin D2-CDK4 complex	GOTERM_FAT_CC	3	
+GO:0097130~cyclin D3-CDK4 complex	GOTERM_FAT_CC	2	
+GO:0097132~cyclin D2-CDK6 complex	GOTERM_FAT_CC	1	
+GO:0097134~cyclin E1-CDK2 complex	GOTERM_FAT_CC	3	
+GO:0097135~cyclin E2-CDK2 complex	GOTERM_FAT_CC	2	
+GO:0097136~Bcl-2 family protein complex	GOTERM_FAT_CC	10	
+GO:0097140~BIM-BCL-xl complex	GOTERM_FAT_CC	1	
+GO:0097141~BIM-BCL-2 complex	GOTERM_FAT_CC	1	
+GO:0097143~PUMA-BCL-xl complex	GOTERM_FAT_CC	2	
+GO:0097144~BAX complex	GOTERM_FAT_CC	1	
+GO:0097145~BAK complex	GOTERM_FAT_CC	2	
+GO:0097149~centralspindlin complex	GOTERM_FAT_CC	3	
+GO:0097165~nuclear stress granule	GOTERM_FAT_CC	6	
+GO:0097169~AIM2 inflammasome complex	GOTERM_FAT_CC	5	
+GO:0097179~protease inhibitor complex	GOTERM_FAT_CC	11	
+GO:0097180~serine protease inhibitor complex	GOTERM_FAT_CC	10	
+GO:0097181~protein C inhibitor-coagulation factor V complex	GOTERM_FAT_CC	1	
+GO:0097182~protein C inhibitor-coagulation factor Xa complex	GOTERM_FAT_CC	1	
+GO:0097183~protein C inhibitor-coagulation factor XI complex	GOTERM_FAT_CC	1	
+GO:0097196~Shu complex	GOTERM_FAT_CC	2	
+GO:0097197~tetraspanin-enriched microdomain	GOTERM_FAT_CC	10	
+GO:0097208~alveolar lamellar body	GOTERM_FAT_CC	9	
+GO:0097209~epidermal lamellar body	GOTERM_FAT_CC	4	
+GO:0097223~sperm part	GOTERM_FAT_CC	352	
+GO:0097224~sperm connecting piece	GOTERM_FAT_CC	12	
+GO:0097225~sperm midpiece	GOTERM_FAT_CC	53	
+GO:0097226~sperm mitochondrial sheath	GOTERM_FAT_CC	6	
+GO:0097227~sperm annulus	GOTERM_FAT_CC	6	
+GO:0097228~sperm principal piece	GOTERM_FAT_CC	42	
+GO:0097229~sperm end piece	GOTERM_FAT_CC	3	
+GO:0097232~lamellar body membrane	GOTERM_FAT_CC	3	
+GO:0097233~alveolar lamellar body membrane	GOTERM_FAT_CC	2	
+GO:0097234~epidermal lamellar body membrane	GOTERM_FAT_CC	1	
+GO:0097255~R2TP complex	GOTERM_FAT_CC	5	
+GO:0097268~cytoophidium	GOTERM_FAT_CC	3	
+GO:0097342~ripoptosome	GOTERM_FAT_CC	5	
+GO:0097344~Rix1 complex	GOTERM_FAT_CC	1	
+GO:0097346~INO80-type complex	GOTERM_FAT_CC	28	
+GO:0097356~perinucleolar compartment	GOTERM_FAT_CC	5	
+GO:0097361~CIA complex	GOTERM_FAT_CC	6	
+GO:0097362~MCM8-MCM9 complex	GOTERM_FAT_CC	2	
+GO:0097381~photoreceptor disc membrane	GOTERM_FAT_CC	3	
+GO:0097386~glial cell projection	GOTERM_FAT_CC	43	
+GO:0097409~glial cytoplasmic inclusion	GOTERM_FAT_CC	1	
+GO:0097413~Lewy body	GOTERM_FAT_CC	7	
+GO:0097414~classical Lewy body	GOTERM_FAT_CC	1	
+GO:0097418~neurofibrillary tangle	GOTERM_FAT_CC	5	
+GO:0097422~tubular endosome	GOTERM_FAT_CC	5	
+GO:0097425~smooth endoplasmic reticulum part	GOTERM_FAT_CC	6	
+GO:0097427~microtubule bundle	GOTERM_FAT_CC	6	
+GO:0097431~mitotic spindle pole	GOTERM_FAT_CC	40	
+GO:0097433~dense body	GOTERM_FAT_CC	7	
+GO:0097440~apical dendrite	GOTERM_FAT_CC	29	
+GO:0097441~basilar dendrite	GOTERM_FAT_CC	11	
+GO:0097442~CA3 pyramidal cell dendrite	GOTERM_FAT_CC	3	
+GO:0097443~sorting endosome	GOTERM_FAT_CC	5	
+GO:0097444~spine apparatus	GOTERM_FAT_CC	6	
+GO:0097447~dendritic tree	GOTERM_FAT_CC	3	
+GO:0097449~astrocyte projection	GOTERM_FAT_CC	22	
+GO:0097450~astrocyte end-foot	GOTERM_FAT_CC	9	
+GO:0097451~glial limiting end-foot	GOTERM_FAT_CC	3	
+GO:0097452~GAIT complex	GOTERM_FAT_CC	4	
+GO:0097453~mesaxon	GOTERM_FAT_CC	2	
+GO:0097454~Schwann cell microvillus	GOTERM_FAT_CC	3	
+GO:0097456~terminal loop	GOTERM_FAT_CC	1	
+GO:0097457~hippocampal mossy fiber	GOTERM_FAT_CC	6	
+GO:0097458~neuron part	GOTERM_FAT_CC	2111	
+GO:0097462~Lewy neurite	GOTERM_FAT_CC	1	
+GO:0097470~ribbon synapse	GOTERM_FAT_CC	23	
+GO:0097487~multivesicular body, internal vesicle	GOTERM_FAT_CC	4	
+GO:0097489~multivesicular body, internal vesicle lumen	GOTERM_FAT_CC	1	
+GO:0097504~Gemini of coiled bodies	GOTERM_FAT_CC	10	
+GO:0097505~Rad6-Rad18 complex	GOTERM_FAT_CC	1	
+GO:0097512~cardiac myofibril	GOTERM_FAT_CC	9	
+GO:0097513~myosin II filament	GOTERM_FAT_CC	3	
+GO:0097517~contractile actin filament bundle	GOTERM_FAT_CC	90	
+GO:0097519~DNA recombinase complex	GOTERM_FAT_CC	2	
+GO:0097524~sperm plasma membrane	GOTERM_FAT_CC	27	
+GO:0097525~spliceosomal snRNP complex	GOTERM_FAT_CC	57	
+GO:0097526~spliceosomal tri-snRNP complex	GOTERM_FAT_CC	31	
+GO:0097539~ciliary transition fiber	GOTERM_FAT_CC	10	
+GO:0097541~axonemal basal plate	GOTERM_FAT_CC	2	
+GO:0097542~ciliary tip	GOTERM_FAT_CC	14	
+GO:0097543~ciliary inversin compartment	GOTERM_FAT_CC	4	
+GO:0097545~axonemal outer doublet	GOTERM_FAT_CC	2	
+GO:0097546~ciliary base	GOTERM_FAT_CC	43	
+GO:0097550~transcriptional preinitiation complex	GOTERM_FAT_CC	11	
+GO:0097574~lateral part of cell	GOTERM_FAT_CC	6	
+GO:0097575~lateral cell cortex	GOTERM_FAT_CC	2	
+GO:0097598~sperm cytoplasmic droplet	GOTERM_FAT_CC	4	
+GO:0097610~cell surface furrow	GOTERM_FAT_CC	57	
+GO:0097629~extrinsic component of omegasome membrane	GOTERM_FAT_CC	3	
+GO:0097630~intrinsic component of omegasome membrane	GOTERM_FAT_CC	1	
+GO:0097631~integral component of omegasome membrane	GOTERM_FAT_CC	1	
+GO:0097632~extrinsic component of pre-autophagosomal structure membrane	GOTERM_FAT_CC	2	
+GO:0097635~extrinsic component of autophagosome membrane	GOTERM_FAT_CC	2	
+GO:0097636~intrinsic component of autophagosome membrane	GOTERM_FAT_CC	3	
+GO:0097637~integral component of autophagosome membrane	GOTERM_FAT_CC	3	
+GO:0097648~G-protein coupled receptor complex	GOTERM_FAT_CC	8	
+GO:0097651~phosphatidylinositol 3-kinase complex, class I	GOTERM_FAT_CC	8	
+GO:0097728~9+0 motile cilium	GOTERM_FAT_CC	6	
+GO:0097729~9+2 motile cilium	GOTERM_FAT_CC	194	
+GO:0097730~non-motile cilium	GOTERM_FAT_CC	177	
+GO:0097731~9+0 non-motile cilium	GOTERM_FAT_CC	137	
+GO:0097732~9+2 non-motile cilium	GOTERM_FAT_CC	13	
+GO:0097733~photoreceptor cell cilium	GOTERM_FAT_CC	123	
+GO:0098533~ATPase dependent transmembrane transport complex	GOTERM_FAT_CC	17	
+GO:0098536~deuterosome	GOTERM_FAT_CC	5	
+GO:0098547~lumenal side of Golgi membrane	GOTERM_FAT_CC	1	
+GO:0098552~side of membrane	GOTERM_FAT_CC	888	
+GO:0098553~lumenal side of endoplasmic reticulum membrane	GOTERM_FAT_CC	16	
+GO:0098554~cytoplasmic side of endoplasmic reticulum membrane	GOTERM_FAT_CC	14	
+GO:0098556~cytoplasmic side of rough endoplasmic reticulum membrane	GOTERM_FAT_CC	6	
+GO:0098559~cytoplasmic side of early endosome membrane	GOTERM_FAT_CC	3	
+GO:0098560~cytoplasmic side of late endosome membrane	GOTERM_FAT_CC	3	
+GO:0098562~cytoplasmic side of membrane	GOTERM_FAT_CC	215	
+GO:0098563~intrinsic component of synaptic vesicle membrane	GOTERM_FAT_CC	67	
+GO:0098573~intrinsic component of mitochondrial membrane	GOTERM_FAT_CC	86	
+GO:0098574~cytoplasmic side of lysosomal membrane	GOTERM_FAT_CC	12	
+GO:0098576~lumenal side of membrane	GOTERM_FAT_CC	6	
+GO:0098577~inactive sex chromosome	GOTERM_FAT_CC	1	
+GO:0098589~membrane region	GOTERM_FAT_CC	519	
+GO:0098590~plasma membrane region	GOTERM_FAT_CC	1357	
+GO:0098591~external side of apical plasma membrane	GOTERM_FAT_CC	7	
+GO:0098592~cytoplasmic side of apical plasma membrane	GOTERM_FAT_CC	3	
+GO:0098594~mucin granule	GOTERM_FAT_CC	1	
+GO:0098595~perivitelline space	GOTERM_FAT_CC	1	
+GO:0098635~protein complex involved in cell-cell adhesion	GOTERM_FAT_CC	4	
+GO:0098636~protein complex involved in cell adhesion	GOTERM_FAT_CC	56	
+GO:0098637~protein complex involved in cell-matrix adhesion	GOTERM_FAT_CC	11	
+GO:0098642~network-forming collagen trimer	GOTERM_FAT_CC	8	
+GO:0098643~banded collagen fibril	GOTERM_FAT_CC	12	
+GO:0098644~complex of collagen trimers	GOTERM_FAT_CC	20	
+GO:0098645~collagen network	GOTERM_FAT_CC	8	
+GO:0098646~collagen sheet	GOTERM_FAT_CC	1	
+GO:0098647~collagen beaded filament	GOTERM_FAT_CC	1	
+GO:0098651~basement membrane collagen trimer	GOTERM_FAT_CC	7	
+GO:0098665~serotonin receptor complex	GOTERM_FAT_CC	6	
+GO:0098666~G-protein coupled serotonin receptor complex	GOTERM_FAT_CC	4	
+GO:0098674~extrinsic component of neuronal dense core vesicle membrane	GOTERM_FAT_CC	3	
+GO:0098675~intrinsic component of neuronal dense core vesicle membrane	GOTERM_FAT_CC	3	
+GO:0098683~cochlear hair cell ribbon synapse	GOTERM_FAT_CC	3	
+GO:0098684~photoreceptor ribbon synapse	GOTERM_FAT_CC	12	
+GO:0098685~Schaffer collateral - CA1 synapse	GOTERM_FAT_CC	115	
+GO:0098686~hippocampal mossy fiber to CA3 synapse	GOTERM_FAT_CC	50	
+GO:0098687~chromosomal region	GOTERM_FAT_CC	364	
+GO:0098688~parallel fiber to Purkinje cell synapse	GOTERM_FAT_CC	33	
+GO:0098753~anchored component of the cytoplasmic side of the plasma membrane	GOTERM_FAT_CC	1	
+GO:0098791~Golgi subcompartment	GOTERM_FAT_CC	372	
+GO:0098793~presynapse	GOTERM_FAT_CC	674	
+GO:0098794~postsynapse	GOTERM_FAT_CC	803	
+GO:0098798~mitochondrial protein complex	GOTERM_FAT_CC	179	
+GO:0098799~outer mitochondrial membrane protein complex	GOTERM_FAT_CC	15	
+GO:0098800~inner mitochondrial membrane protein complex	GOTERM_FAT_CC	143	
+GO:0098802~plasma membrane receptor complex	GOTERM_FAT_CC	198	
+GO:0098803~respiratory chain complex	GOTERM_FAT_CC	90	
+GO:0098826~endoplasmic reticulum tubular network membrane	GOTERM_FAT_CC	5	
+GO:0098827~endoplasmic reticulum subcompartment	GOTERM_FAT_CC	28	
+GO:0098830~presynaptic endosome	GOTERM_FAT_CC	3	
+GO:0098831~presynaptic active zone cytoplasmic component	GOTERM_FAT_CC	20	
+GO:0098833~presynaptic endocytic zone	GOTERM_FAT_CC	13	
+GO:0098835~presynaptic endocytic zone membrane	GOTERM_FAT_CC	9	
+GO:0098837~postsynaptic recycling endosome	GOTERM_FAT_CC	9	
+GO:0098839~postsynaptic density membrane	GOTERM_FAT_CC	107	
+GO:0098842~postsynaptic early endosome	GOTERM_FAT_CC	4	
+GO:0098843~postsynaptic endocytic zone	GOTERM_FAT_CC	10	
+GO:0098844~postsynaptic endocytic zone membrane	GOTERM_FAT_CC	5	
+GO:0098845~postsynaptic endosome	GOTERM_FAT_CC	18	
+GO:0098846~podocyte foot	GOTERM_FAT_CC	2	
+GO:0098850~extrinsic component of synaptic vesicle membrane	GOTERM_FAT_CC	10	
+GO:0098852~lytic vacuole membrane	GOTERM_FAT_CC	276	
+GO:0098855~HCN channel complex	GOTERM_FAT_CC	4	
+GO:0098857~membrane microdomain	GOTERM_FAT_CC	438	
+GO:0098858~actin-based cell projection	GOTERM_FAT_CC	259	
+GO:0098862~cluster of actin-based cell projections	GOTERM_FAT_CC	212	
+GO:0098871~postsynaptic actin cytoskeleton	GOTERM_FAT_CC	14	
+GO:0098875~epididymosome	GOTERM_FAT_CC	1	
+GO:0098878~neurotransmitter receptor complex	GOTERM_FAT_CC	46	
+GO:0098888~extrinsic component of presynaptic membrane	GOTERM_FAT_CC	10	
+GO:0098889~intrinsic component of presynaptic membrane	GOTERM_FAT_CC	135	
+GO:0098890~extrinsic component of postsynaptic membrane	GOTERM_FAT_CC	10	
+GO:0098891~extrinsic component of presynaptic active zone membrane	GOTERM_FAT_CC	3	
+GO:0098892~extrinsic component of postsynaptic specialization membrane	GOTERM_FAT_CC	3	
+GO:0098894~extrinsic component of presynaptic endocytic zone membrane	GOTERM_FAT_CC	2	
+GO:0098895~postsynaptic endosome membrane	GOTERM_FAT_CC	6	
+GO:0098896~postsynaptic early endosome membrane	GOTERM_FAT_CC	1	
+GO:0098897~spine apparatus membrane	GOTERM_FAT_CC	2	
+GO:0098898~dense core granule lumen	GOTERM_FAT_CC	3	
+GO:0098922~extrinsic component of dense core granule membrane	GOTERM_FAT_CC	3	
+GO:0098936~intrinsic component of postsynaptic membrane	GOTERM_FAT_CC	184	
+GO:0098944~postsynaptic recycling endosome membrane	GOTERM_FAT_CC	3	
+GO:0098945~intrinsic component of presynaptic active zone membrane	GOTERM_FAT_CC	33	
+GO:0098948~intrinsic component of postsynaptic specialization membrane	GOTERM_FAT_CC	114	
+GO:0098949~intrinsic component of postsynaptic endosome membrane	GOTERM_FAT_CC	2	
+GO:0098951~intrinsic component of postsynaptic recycling endosome membrane	GOTERM_FAT_CC	2	
+GO:0098952~intrinsic component of spine apparatus membrane	GOTERM_FAT_CC	2	
+GO:0098954~presynaptic endosome membrane	GOTERM_FAT_CC	1	
+GO:0098955~intrinsic component of presynaptic endosome membrane	GOTERM_FAT_CC	1	
+GO:0098956~intrinsic component of dense core granule membrane	GOTERM_FAT_CC	3	
+GO:0098965~extracellular matrix of synaptic cleft	GOTERM_FAT_CC	1	
+GO:0098966~perisynaptic extracellular matrix	GOTERM_FAT_CC	4	
+GO:0098978~glutamatergic synapse	GOTERM_FAT_CC	522	
+GO:0098981~cholinergic synapse	GOTERM_FAT_CC	16	
+GO:0098982~GABA-ergic synapse	GOTERM_FAT_CC	109	
+GO:0098984~neuron to neuron synapse	GOTERM_FAT_CC	449	
+GO:0098985~asymmetric, glutamatergic, excitatory synapse	GOTERM_FAT_CC	2	
+GO:0098992~neuronal dense core vesicle	GOTERM_FAT_CC	16	
+GO:0098993~anchored component of synaptic vesicle membrane	GOTERM_FAT_CC	19	
+GO:0098998~extrinsic component of postsynaptic early endosome membrane	GOTERM_FAT_CC	1	
+GO:0098999~extrinsic component of postsynaptic endosome membrane	GOTERM_FAT_CC	3	
+GO:0099012~neuronal dense core vesicle membrane	GOTERM_FAT_CC	6	
+GO:0099013~neuronal dense core vesicle lumen	GOTERM_FAT_CC	3	
+GO:0099020~perinuclear endoplasmic reticulum lumen	GOTERM_FAT_CC	1	
+GO:0099023~tethering complex	GOTERM_FAT_CC	72	
+GO:0099025~anchored component of postsynaptic membrane	GOTERM_FAT_CC	10	
+GO:0099026~anchored component of presynaptic membrane	GOTERM_FAT_CC	13	
+GO:0099029~anchored component of presynaptic active zone membrane	GOTERM_FAT_CC	5	
+GO:0099030~anchored component of postsynaptic specialization membrane	GOTERM_FAT_CC	6	
+GO:0099031~anchored component of postsynaptic density membrane	GOTERM_FAT_CC	6	
+GO:0099033~anchored component of postsynaptic recycling endosome membrane	GOTERM_FAT_CC	2	
+GO:0099034~anchored component of postsynaptic endosome membrane	GOTERM_FAT_CC	2	
+GO:0099053~activating signal cointegrator 1 complex	GOTERM_FAT_CC	3	
+GO:0099055~integral component of postsynaptic membrane	GOTERM_FAT_CC	174	
+GO:0099056~integral component of presynaptic membrane	GOTERM_FAT_CC	122	
+GO:0099059~integral component of presynaptic active zone membrane	GOTERM_FAT_CC	28	
+GO:0099060~integral component of postsynaptic specialization membrane	GOTERM_FAT_CC	108	
+GO:0099061~integral component of postsynaptic density membrane	GOTERM_FAT_CC	74	
+GO:0099065~integral component of spine apparatus membrane	GOTERM_FAT_CC	2	
+GO:0099066~integral component of neuronal dense core vesicle membrane	GOTERM_FAT_CC	3	
+GO:0099067~integral component of presynaptic endosome membrane	GOTERM_FAT_CC	1	
+GO:0099073~mitochondrion-derived vesicle	GOTERM_FAT_CC	3	
+GO:0099078~BORC complex	GOTERM_FAT_CC	8	
+GO:0099080~supramolecular complex	GOTERM_FAT_CC	1056	
+GO:0099081~supramolecular polymer	GOTERM_FAT_CC	1055	
+GO:0099086~synaptonemal structure	GOTERM_FAT_CC	124	
+GO:0099091~postsynaptic specialization, intracellular component	GOTERM_FAT_CC	7	
+GO:0099092~postsynaptic density, intracellular component	GOTERM_FAT_CC	32	
+GO:0099115~chromosome, subtelomeric region	GOTERM_FAT_CC	2	
+GO:0099126~transforming growth factor beta complex	GOTERM_FAT_CC	3	
+GO:0099400~caveola neck	GOTERM_FAT_CC	1	
+GO:0099501~exocytic vesicle membrane	GOTERM_FAT_CC	138	
+GO:0099503~secretory vesicle	GOTERM_FAT_CC	689	
+GO:0099512~supramolecular fiber	GOTERM_FAT_CC	1047	
+GO:0099513~polymeric cytoskeletal fiber	GOTERM_FAT_CC	808	
+GO:0099522~region of cytosol	GOTERM_FAT_CC	44	
+GO:0099523~presynaptic cytosol	GOTERM_FAT_CC	25	
+GO:0099524~postsynaptic cytosol	GOTERM_FAT_CC	29	
+GO:0099535~synapse associated extracellular matrix	GOTERM_FAT_CC	5	
+GO:0099544~perisynaptic space	GOTERM_FAT_CC	8	
+GO:0099568~cytoplasmic region	GOTERM_FAT_CC	450	
+GO:0099569~presynaptic cytoskeleton	GOTERM_FAT_CC	8	
+GO:0099571~postsynaptic cytoskeleton	GOTERM_FAT_CC	15	
+GO:0099572~postsynaptic specialization	GOTERM_FAT_CC	472	
+GO:0099573~glutamatergic postsynaptic density	GOTERM_FAT_CC	2	
+GO:0099617~matrix side of mitochondrial inner membrane	GOTERM_FAT_CC	4	
+GO:0099629~postsynaptic specialization of symmetric synapse	GOTERM_FAT_CC	3	
+GO:0099631~postsynaptic endocytic zone cytoplasmic component	GOTERM_FAT_CC	2	
+GO:0099634~postsynaptic specialization membrane	GOTERM_FAT_CC	147	
+GO:0099738~cell cortex region	GOTERM_FAT_CC	55	
+GO:0101004~cytolytic granule membrane	GOTERM_FAT_CC	3	
+GO:0101019~nucleolar exosome (RNase complex)	GOTERM_FAT_CC	10	
+GO:0101031~chaperone complex	GOTERM_FAT_CC	34	
+GO:0120001~apical plasma membrane urothelial plaque	GOTERM_FAT_CC	4	
+GO:0120003~hinge region between urothelial plaques of apical plasma membrane	GOTERM_FAT_CC	1	
+GO:1901588~dendritic microtubule	GOTERM_FAT_CC	4	
+GO:1902493~acetyltransferase complex	GOTERM_FAT_CC	101	
+GO:1902495~transmembrane transporter complex	GOTERM_FAT_CC	330	
+GO:1902500~vacuolar HOPS complex	GOTERM_FAT_CC	2	
+GO:1902501~lysosomal HOPS complex	GOTERM_FAT_CC	2	
+GO:1902503~adenylyltransferase complex	GOTERM_FAT_CC	1	
+GO:1902554~serine/threonine protein kinase complex	GOTERM_FAT_CC	101	
+GO:1902555~endoribonuclease complex	GOTERM_FAT_CC	34	
+GO:1902560~GMP reductase complex	GOTERM_FAT_CC	2	
+GO:1902562~H4 histone acetyltransferase complex	GOTERM_FAT_CC	53	
+GO:1902636~kinociliary basal body	GOTERM_FAT_CC	3	
+GO:1902710~GABA receptor complex	GOTERM_FAT_CC	21	
+GO:1902711~GABA-A receptor complex	GOTERM_FAT_CC	19	
+GO:1902712~G-protein coupled GABA receptor complex	GOTERM_FAT_CC	2	
+GO:1902737~dendritic filopodium	GOTERM_FAT_CC	6	
+GO:1902911~protein kinase complex	GOTERM_FAT_CC	119	
+GO:1902912~pyruvate kinase complex	GOTERM_FAT_CC	1	
+GO:1902937~inward rectifier potassium channel complex	GOTERM_FAT_CC	2	
+GO:1903095~ribonuclease III complex	GOTERM_FAT_CC	3	
+GO:1903143~adrenomedullin receptor complex	GOTERM_FAT_CC	3	
+GO:1903293~phosphatase complex	GOTERM_FAT_CC	58	
+GO:1903349~omegasome membrane	GOTERM_FAT_CC	4	
+GO:1903439~calcitonin family receptor complex	GOTERM_FAT_CC	4	
+GO:1903503~ATPase inhibitor complex	GOTERM_FAT_CC	4	
+GO:1903561~extracellular vesicle	GOTERM_FAT_CC	120	
+GO:1903754~cortical microtubule plus-end	GOTERM_FAT_CC	2	
+GO:1903767~sweet taste receptor complex	GOTERM_FAT_CC	2	
+GO:1903768~taste receptor complex	GOTERM_FAT_CC	2	
+GO:1903958~nitric-oxide synthase complex	GOTERM_FAT_CC	3	
+GO:1904090~peptidase inhibitor complex	GOTERM_FAT_CC	13	
+GO:1904097~acid phosphatase complex	GOTERM_FAT_CC	1	
+GO:1904115~axon cytoplasm	GOTERM_FAT_CC	64	
+GO:1904144~phosphatidylinositol phosphate phosphatase complex	GOTERM_FAT_CC	1	
+GO:1904423~dehydrodolichyl diphosphate synthase complex	GOTERM_FAT_CC	2	
+GO:1904511~cytoplasmic microtubule plus-end	GOTERM_FAT_CC	2	
+GO:1904602~serotonin-activated cation-selective channel complex	GOTERM_FAT_CC	2	
+GO:1904930~amphisome membrane	GOTERM_FAT_CC	11	
+GO:1904949~ATPase complex	GOTERM_FAT_CC	38	
+GO:1904974~heparanase complex	GOTERM_FAT_CC	1	
+GO:1905103~integral component of lysosomal membrane	GOTERM_FAT_CC	10	
+GO:1905202~methylcrotonoyl-CoA carboxylase complex	GOTERM_FAT_CC	2	
+GO:1905286~serine-type peptidase complex	GOTERM_FAT_CC	19	
+GO:1905347~endodeoxyribonuclease complex	GOTERM_FAT_CC	4	
+GO:1905348~endonuclease complex	GOTERM_FAT_CC	38	
+GO:1905354~exoribonuclease complex	GOTERM_FAT_CC	25	
+GO:1905360~GTPase complex	GOTERM_FAT_CC	38	
+GO:1905368~peptidase complex	GOTERM_FAT_CC	132	
+GO:1905369~endopeptidase complex	GOTERM_FAT_CC	96	
+GO:1905370~serine-type endopeptidase complex	GOTERM_FAT_CC	19	
+GO:1905379~beta-N-acetylhexosaminidase complex	GOTERM_FAT_CC	2	
+GO:1905720~cytoplasmic microtubule bundle	GOTERM_FAT_CC	1	
+GO:1905721~mitotic spindle astral microtubule end	GOTERM_FAT_CC	3	
+GO:1990005~granular vesicle	GOTERM_FAT_CC	2	
+GO:1990008~neurosecretory vesicle	GOTERM_FAT_CC	1	
+GO:1990015~ensheathing process	GOTERM_FAT_CC	2	
+GO:1990023~mitotic spindle midzone	GOTERM_FAT_CC	15	
+GO:1990026~hippocampal mossy fiber expansion	GOTERM_FAT_CC	2	
+GO:1990030~pericellular basket	GOTERM_FAT_CC	3	
+GO:1990031~pinceau fiber	GOTERM_FAT_CC	1	
+GO:1990032~parallel fiber	GOTERM_FAT_CC	2	
+GO:1990037~Lewy body core	GOTERM_FAT_CC	3	
+GO:1990038~Lewy body corona	GOTERM_FAT_CC	1	
+GO:1990047~spindle matrix	GOTERM_FAT_CC	1	
+GO:1990062~RPAP3/R2TP/prefoldin-like complex	GOTERM_FAT_CC	11	
+GO:1990070~TRAPPI protein complex	GOTERM_FAT_CC	1	
+GO:1990071~TRAPPII protein complex	GOTERM_FAT_CC	11	
+GO:1990072~TRAPPIII protein complex	GOTERM_FAT_CC	11	
+GO:1990075~periciliary membrane compartment	GOTERM_FAT_CC	6	
+GO:1990077~primosome complex	GOTERM_FAT_CC	2	
+GO:1990111~spermatoproteasome complex	GOTERM_FAT_CC	5	
+GO:1990112~RQC complex	GOTERM_FAT_CC	3	
+GO:1990124~messenger ribonucleoprotein complex	GOTERM_FAT_CC	15	
+GO:1990130~Iml1 complex	GOTERM_FAT_CC	6	
+GO:1990131~Gtr1-Gtr2 GTPase complex	GOTERM_FAT_CC	4	
+GO:1990184~amino acid transport complex	GOTERM_FAT_CC	2	
+GO:1990204~oxidoreductase complex	GOTERM_FAT_CC	118	
+GO:1990221~L-cysteine desulfurase complex	GOTERM_FAT_CC	2	
+GO:1990229~iron-sulfur cluster assembly complex	GOTERM_FAT_CC	11	
+GO:1990231~STING complex	GOTERM_FAT_CC	1	
+GO:1990246~uniplex complex	GOTERM_FAT_CC	6	
+GO:1990257~piccolo-bassoon transport vesicle	GOTERM_FAT_CC	2	
+GO:1990265~platelet-derived growth factor complex	GOTERM_FAT_CC	2	
+GO:1990298~bub1-bub3 complex	GOTERM_FAT_CC	1	
+GO:1990316~ATG1/ULK1 kinase complex	GOTERM_FAT_CC	9	
+GO:1990351~transporter complex	GOTERM_FAT_CC	352	
+GO:1990356~sumoylated E2 ligase complex	GOTERM_FAT_CC	1	
+GO:1990357~terminal web	GOTERM_FAT_CC	5	
+GO:1990385~meiotic spindle midzone	GOTERM_FAT_CC	2	
+GO:1990391~DNA repair complex	GOTERM_FAT_CC	47	
+GO:1990393~3M complex	GOTERM_FAT_CC	5	
+GO:1990406~CGRP receptor complex	GOTERM_FAT_CC	2	
+GO:1990415~Pex17p-Pex14p docking complex	GOTERM_FAT_CC	3	
+GO:1990423~RZZ complex	GOTERM_FAT_CC	3	
+GO:1990425~ryanodine receptor complex	GOTERM_FAT_CC	2	
+GO:1990427~stereocilia tip-link density	GOTERM_FAT_CC	2	
+GO:1990429~peroxisomal importomer complex	GOTERM_FAT_CC	3	
+GO:1990435~upper tip-link density	GOTERM_FAT_CC	2	
+GO:1990452~Parkin-FBXW7-Cul1 ubiquitin ligase complex	GOTERM_FAT_CC	3	
+GO:1990454~L-type voltage-gated calcium channel complex	GOTERM_FAT_CC	11	
+GO:1990462~omegasome	GOTERM_FAT_CC	6	
+GO:1990467~NuA3a histone acetyltransferase complex	GOTERM_FAT_CC	1	
+GO:1990468~NuA3b histone acetyltransferase complex	GOTERM_FAT_CC	1	
+GO:1990498~mitotic spindle microtubule	GOTERM_FAT_CC	13	
+GO:1990501~exon-exon junction subcomplex mago-y14	GOTERM_FAT_CC	4	
+GO:1990513~CLOCK-BMAL transcription complex	GOTERM_FAT_CC	4	
+GO:1990529~glycosylphosphatidylinositol-mannosyltransferase I complex	GOTERM_FAT_CC	1	
+GO:1990531~Lem3p-Dnf1p complex	GOTERM_FAT_CC	12	
+GO:1990565~HSP90-CDC37 chaperone complex	GOTERM_FAT_CC	2	
+GO:1990572~TERT-RMRP complex	GOTERM_FAT_CC	1	
+GO:1990578~perinuclear endoplasmic reticulum membrane	GOTERM_FAT_CC	3	
+GO:1990584~cardiac Troponin complex	GOTERM_FAT_CC	3	
+GO:1990589~ATF4-CREB1 transcription factor complex	GOTERM_FAT_CC	4	
+GO:1990590~ATF1-ATF4 transcription factor complex	GOTERM_FAT_CC	2	
+GO:1990597~AIP1-IRE1 complex	GOTERM_FAT_CC	2	
+GO:1990604~IRE1-TRAF2-ASK1 complex	GOTERM_FAT_CC	4	
+GO:1990617~CHOP-ATF4 complex	GOTERM_FAT_CC	2	
+GO:1990622~CHOP-ATF3 complex	GOTERM_FAT_CC	2	
+GO:1990630~IRE1-RACK1-PP2A complex	GOTERM_FAT_CC	2	
+GO:1990635~proximal dendrite	GOTERM_FAT_CC	11	
+GO:1990647~C/EBP complex	GOTERM_FAT_CC	2	
+GO:1990665~AnxA2-p11 complex	GOTERM_FAT_CC	2	
+GO:1990666~PCSK9-LDLR complex	GOTERM_FAT_CC	2	
+GO:1990667~PCSK9-AnxA2 complex	GOTERM_FAT_CC	2	
+GO:1990673~intrinsic component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	GOTERM_FAT_CC	1	
+GO:1990674~Golgi cis cisterna membrane	GOTERM_FAT_CC	1	
+GO:1990675~Golgi medial cisterna membrane	GOTERM_FAT_CC	1	
+GO:1990676~Golgi trans cisterna membrane	GOTERM_FAT_CC	1	
+GO:1990682~CSF1-CSF1R complex	GOTERM_FAT_CC	2	
+GO:1990696~USH2 complex	GOTERM_FAT_CC	4	
+GO:1990701~integral component of endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane	GOTERM_FAT_CC	1	
+GO:1990706~MAD1 complex	GOTERM_FAT_CC	1	
+GO:1990711~Beta-catenin-ICAT complex	GOTERM_FAT_CC	2	
+GO:1990712~HFE-transferrin receptor complex	GOTERM_FAT_CC	6	
+GO:1990713~survivin complex	GOTERM_FAT_CC	1	
+GO:1990716~axonemal central apparatus	GOTERM_FAT_CC	6	
+GO:1990718~axonemal central pair projection	GOTERM_FAT_CC	2	
+GO:1990722~DAPK1-calmodulin complex	GOTERM_FAT_CC	4	
+GO:1990723~cytoplasmic periphery of the nuclear pore complex	GOTERM_FAT_CC	2	
+GO:1990724~galectin complex	GOTERM_FAT_CC	2	
+GO:1990726~Lsm1-7-Pat1 complex	GOTERM_FAT_CC	5	
+GO:1990728~mitotic spindle assembly checkpoint MAD1-MAD2 complex	GOTERM_FAT_CC	2	
+GO:1990730~VCP-NSFL1C complex	GOTERM_FAT_CC	2	
+GO:1990733~titin-telethonin complex	GOTERM_FAT_CC	2	
+GO:1990742~microvesicle	GOTERM_FAT_CC	5	
+GO:1990745~EARP complex	GOTERM_FAT_CC	5	
+GO:1990752~microtubule end	GOTERM_FAT_CC	35	
+GO:1990761~growth cone lamellipodium	GOTERM_FAT_CC	3	
+GO:1990769~proximal neuron projection	GOTERM_FAT_CC	5	
+GO:1990777~lipoprotein particle	GOTERM_FAT_CC	47	
+GO:1990779~glycoprotein Ib-IX-V complex	GOTERM_FAT_CC	5	
+GO:1990780~cytoplasmic side of dendritic spine plasma membrane	GOTERM_FAT_CC	1	
+GO:1990788~GLI-SUFU complex	GOTERM_FAT_CC	3	
+GO:1990794~basolateral part of cell	GOTERM_FAT_CC	4	
+GO:1990795~rod bipolar cell terminal bouton	GOTERM_FAT_CC	1	
+GO:1990796~photoreceptor cell terminal bouton	GOTERM_FAT_CC	1	
+GO:1990811~Msd1-Wdr8-Pkl1 complex	GOTERM_FAT_CC	1	
+GO:1990812~growth cone filopodium	GOTERM_FAT_CC	4	
+GO:1990826~nucleoplasmic periphery of the nuclear pore complex	GOTERM_FAT_CC	2	
+GO:1990836~lysosomal matrix	GOTERM_FAT_CC	2	
+GO:1990851~Wnt-Frizzled-LRP5/6 complex	GOTERM_FAT_CC	4	
+GO:1990875~nucleoplasmic side of nuclear pore	GOTERM_FAT_CC	1	
+GO:1990876~cytoplasmic side of nuclear pore	GOTERM_FAT_CC	1	
+GO:1990879~CST complex	GOTERM_FAT_CC	3	
+GO:1990904~ribonucleoprotein complex	GOTERM_FAT_CC	1095	
+GO:1990907~beta-catenin-TCF complex	GOTERM_FAT_CC	13	
+GO:1990909~Wnt signalosome	GOTERM_FAT_CC	11	
+GO:1990913~sperm head plasma membrane	GOTERM_FAT_CC	18	
+GO:1990917~ooplasm	GOTERM_FAT_CC	6	
+GO:1990923~PET complex	GOTERM_FAT_CC	3	
+GO:1990971~EMILIN complex	GOTERM_FAT_CC	1	
+GO:1990972~multimerin complex	GOTERM_FAT_CC	1	
