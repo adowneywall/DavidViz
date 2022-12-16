@@ -10,11 +10,23 @@
 library(shiny)
 library(shinyjs)
 library(tidyverse)
-library(ComplexHeatmap)
-library(cowplot)
 library(ggthemes)
 library(circlize)
-library(gh)
+library(cowplot)
+library(BiocManager)
+#library(devtools)
+options(repos = BiocManager::repositories())
+#BiocManager::install('ComplexHeatmap')
+# bioc_ls <- installed.packages() %>%
+#   rownames() %>%
+#   devtools::package_info() %>%
+#   filter(source == "Bioconductor") %>%
+#   select(package)
+# if(!"ComplexHeatmap" %in% bioc_ls$package){
+#   options(repos = BiocManager::repositories())
+#   BiocManager::install('ComplexHeatmap')
+# }
+library(ComplexHeatmap)
 
 #### Similarity Calculations ####
 
@@ -252,14 +264,17 @@ ui <- fluidPage(
       numericInput(inputId = "CS",
                    label = "Minimum Cluster Score:",
                    value = 2),
+      verbatimTextOutput("CS_error"),
       numericInput(inputId = "FDR",
                    label = "FDR Threshold:",
                    value = 0.05,max = 1),
+      verbatimTextOutput("FDR_error"),
       checkboxGroupInput(inputId = "Process",
                          label = "Go Terms:",
                          choices = c("Biological Processes (BP)" = "BP",
                                      "Molecular Functions (MF)" = "MF",
                                      "Cellular Components (CC)" = "CC")),
+      verbatimTextOutput("process_error"),
       radioButtons(inputId = "cluster",
                    label = "Gene Ontology Clustering Method:",
                    choices = c("Enrichment metric (default)" = "cdef",
@@ -295,6 +310,7 @@ ui <- fluidPage(
       
       actionButton("plot", "Plot"),
       actionButton("download", "Download"),
+      verbatimTextOutput("error"),
       
       conditionalPanel(
         "false", # always hide the download button
@@ -304,19 +320,21 @@ ui <- fluidPage(
     
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("plot",width="100%"),
-      verbatimTextOutput("error")
+      plotOutput("plot",width="100%")
     )
   )
 )
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
+  
   options(shiny.maxRequestSize=30*1024^2) 
   
   v <- reactiveValues(doPlot = FALSE,doDownload=FALSE)
+  
   resulted_zip <- reactiveVal()
   main_dir <- getwd()
+  
   # Reference File to read in
   ### All genes present in annotation on DAVID knowledgebase ###
   bp <- read_tsv('./ref/DAVID_BP_FAT_GOTERMS.tsv')
@@ -330,11 +348,34 @@ server <- function(input, output) {
     # 1+ will be coerced to TRUE
     v$doPlot <- input$plot
     
+    
+    ## Generates plot in ui
     output$plot <- renderPlot({
-      if (v$doPlot == FALSE) return()
+      if (v$doPlot == FALSE) return()  
       
+      ## Error Messages
+      if(input$CS <= 0){
+        output$CS_error <- renderText({
+          validate(need(input$CS > 0, 'Minimum enrichment score needs to be greater than 0'))
+        })
+        return()
+      }
+
+      if(input$FDR <= 0){
+        output$FDR_error <- renderText({
+          validate(need(input$FDR > 0, 'FDR threshold needs to be greater than 0'))
+        })
+        return()
+      }
+
+      if(is.null(input$Process)){
+        output$process_error <- renderText({
+          validate(need(!is.null(input$Process), 'Please select at least 1 term (BP,MF,CC)'))
+        })
+        return()
+      }
+    
       isolate({
-        
         df <- read_tsv(input$david_file$datapath)
         plot_info <- enrich_viz(df_d = df,
                                 group = group,
@@ -354,6 +395,7 @@ server <- function(input, output) {
     },height = input$height,width = input$width,)
   })
   
+  # Saves parameters, tables, and figures in zip folder when user clicks download
   observeEvent(input$download, {
     v$doPlot <- input$plot
     
@@ -369,53 +411,58 @@ server <- function(input, output) {
     }
     setwd(zipdir)
     
-    # plot_info <- enrich_viz(df_d = df,
-    #                         group = group,
-    #                         CLUSTER_SCORE = input$CS,
-    #                         FDR_SCORE = input$FDR,
-    #                         GOTERM = input$Process,
-    #                         CLUSTER = input$cluster)
+    df <- read_tsv(input$david_file$datapath)
+    plot_info <- enrich_viz(df_d = df,
+                            group = group,
+                            CLUSTER_SCORE = input$CS,
+                            FDR_SCORE = input$FDR,
+                            GOTERM = input$Process,
+                            CLUSTER = input$cluster)
     
     # plot_info <- enrich_viz(df_d = df_d,
     #                         group = group,
     #                         CLUSTER = 'cj')
-    
-    if(!is.null(plot_info[[1]])){      
+
+    label <- paste0(input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster)
+
+    ## Heatmap of DAVID enrichment with tsv
+    if(!is.null(plot_info[[1]])){
       sig_mat <- as.data.frame(plot_info[[1]]) %>%
         mutate(GoTerms = rownames(x = .)) %>%
         relocate('GoTerms')
-      write_tsv(x = sig_mat,file = paste0('FilteredSigEnrichments_NegLog10_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".tsv"))
-      zip("data.zip",paste0('FilteredSigEnrichments_NegLog10_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".tsv"))
+      write_tsv(x = sig_mat,file = paste0('FilteredSigEnrichments_NegLog10_ClusterScoreMin_',label,".tsv"))
+      zip("data.zip",paste0('FilteredSigEnrichments_NegLog10_ClusterScoreMin_',label,".tsv"))
+
+      ## Generate and save default heatmap
+      pdf(file=paste0('HeatMap_ClusterScoreMin_',label,".pdf"),
+          width = 16,height = 25)
+      p1 <- default_heatmap(plot_info[[1]],
+                            row_font=input$font_r,
+                            column_font=input$font_c,
+                            clusterMethod=input$cluster,
+                            g_mat = plot_info[[2]],
+                            colorScale='Fixed',
+                            legend_name='-log10(FDR)')
+      print(p1)
+      dev.off()
+      zip("data.zip",paste0('HeatMap_ClusterScoreMin_',label,".pdf"))
     }
-    
+
+    ## Gene Matrix tsv and heatmap
     if(!is.null(plot_info[[2]])){
       g_mat <- as.data.frame(plot_info[[2]]) %>%
         mutate(GoTerms = rownames(x = .)) %>%
         relocate('GoTerms')
-      write_tsv(x = g_mat,file = paste0('GeneMatrixTable_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".tsv"))
-      zip("data.zip",paste0('GeneMatrixTable_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".tsv"))
-      
-      pdf(file=paste0('GeneDistanceMap_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".pdf"),
+      write_tsv(x = g_mat,file = paste0('GeneMatrixTable_ClusterScoreMin_',label,".tsv"))
+      zip("data.zip",paste0('GeneMatrixTable_ClusterScoreMin_',label,".tsv"))
+
+      pdf(file=paste0('GeneDistanceMap_ClusterScoreMin_',label,".pdf"),
           width = 30,height = 30)
       p4 <- gene_set_heatmap(1-plot_info[[2]])
       print(p4)
       dev.off()
-      zip("data.zip",paste0('GeneDistanceMap_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".pdf"))
+      zip("data.zip",paste0('GeneDistanceMap_ClusterScoreMin_',label,".pdf"))
     }
-      
-    ## Generate and save default heatmap
-    pdf(file=paste0('HeatMap_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".pdf"),
-        width = 16,height = 25)
-    p1 <- default_heatmap(plot_info[[1]],
-                          row_font=input$font_r,
-                          column_font=input$font_c,
-                          clusterMethod=input$cluster,
-                          g_mat = plot_info[[2]],
-                          colorScale='Fixed',
-                          legend_name='-log10(FDR)')
-    print(p1)
-    dev.off()
-    zip("data.zip",paste0('HeatMap_ClusterScoreMin_',input$CS,"_FDRThreshold_",input$FDR,"_GOTERMS_",paste(input$Process,collapse = "_"),"_ClusterMethod_",input$cluster,".pdf"))
     
     resulted_zip(paste0(zipdir,"/data.zip"))
     setwd(main_dir)

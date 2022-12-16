@@ -1,0 +1,13 @@
+name: DavidViz
+title: DavidViz
+username:
+account: adowneywall
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7901237
+bundleId: 6645172
+url: https://adowneywall.shinyapps.io/DavidViz/
+when: 1671209460.96021
+lastSyncTime: 1671209460.96022
+asMultiple: FALSE
+asStatic: FALSE
