@@ -16,7 +16,7 @@ library(cowplot)
 library(BiocManager)
 #library(devtools)
 options(repos = BiocManager::repositories())
-#BiocManager::install('ComplexHeatmap')
+BiocManager::install('ComplexHeatmap')
 # bioc_ls <- installed.packages() %>%
 #   rownames() %>%
 #   devtools::package_info() %>%
@@ -183,11 +183,11 @@ enrich_viz <- function(df_d=df_d,
                        GOTERM = "BP",
                        CLUSTER = 'cdef'){
   df_red <- df_d %>%
-    filter(Score >= CLUSTER_SCORE,
+    filter(Cluster_Score >= CLUSTER_SCORE,
            Top_FDR <= FDR_SCORE,
            grepl(paste0(GOTERM,collapse = "|"),Top_Category)) %>%
-    arrange(desc(Score)) %>%
-    mutate(Enrich_Score = Score) %>%
+    arrange(desc(Cluster_Score)) %>%
+    mutate(Enrich_Score = Cluster_Score) %>%
     relocate(Enrich_Score,.after = 'GeneSetID')
   
   group <- group %>%
